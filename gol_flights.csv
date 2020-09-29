@@ -1,0 +1,1125 @@
+Voos,Companhia.Aerea,Aeroporto.Origem,Cidade.Origem,Estado.Origem,Aeroporto.Destino,Cidade.Destino,Estado.Destino,LongDest,LatDest,LongOrig,LatOrig
+GLO - 1003,GOL,Santos Dumont,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.1648755,-22.911143800000000
+GLO - 1004,GOL,Congonhas,Sao Paulo,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.6565842,-23.6273246
+GLO - 1009,GOL,Santos Dumont,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.1648755,-22.911143800000000
+GLO - 1022,GOL,Congonhas,Sao Paulo,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.6565842,-23.6273246
+GLO - 1038,GOL,Congonhas,Sao Paulo,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.6565842,-23.6273246
+GLO - 1046,GOL,Congonhas,Sao Paulo,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.6565842,-23.6273246
+GLO - 1062,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-46.478126,-23.434552900000000
+GLO - 1063,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.2494233,-22.8134098
+GLO - 1064,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.478126,-23.434552900000000
+GLO - 1065,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.2494233,-22.8134098
+GLO - 1066,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Marechal Rondon,Varzea Grande,MT,-56.117268700000000,-15.653078600000000,-43.2494233,-22.8134098
+GLO - 1067,GOL,Marechal Rondon,Varzea Grande,MT,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-56.117268700000000,-15.653078600000000
+GLO - 1068,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Eduardo Gomes,Manaus,AM,-60.046324900000000,-3.0358474000000000,-43.2494233,-22.8134098
+GLO - 1069,GOL,Eduardo Gomes,Manaus,AM,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-60.046324900000000,-3.0358474000000000
+GLO - 1070,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Zumbi Dos Palmares,Rio Largo,AL,-35.792882900000000,-9.5116056,-47.9172348,-15.869736900000000
+GLO - 1071,GOL,Zumbi Dos Palmares,Rio Largo,AL,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-35.792882900000000,-9.5116056
+GLO - 1076,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-49.1724811,-25.5327132
+GLO - 1077,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-47.9172348,-15.869736900000000
+GLO - 1078,GOL,Tancredo Neves,Confins,MG,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.965396000000000,-19.634099
+GLO - 1079,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-47.9172348,-15.869736900000000
+GLO - 1080,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-47.9172348,-15.869736900000000
+GLO - 1081,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Placido De Castro,Sena Madureira,AC,-67.894367,-9.870171000000000,-47.9172348,-15.869736900000000
+GLO - 1082,GOL,Porto Seguro,Porto Seguro,BA,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-39.0821431,-16.4395303
+GLO - 1083,GOL,Porto Seguro,Porto Seguro,BA,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-39.0821431,-16.4395303
+GLO - 1084,GOL,Tancredo Neves,Confins,MG,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.965396000000000,-19.634099
+GLO - 1085,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.9172348,-15.869736900000000
+GLO - 1086,GOL,Tancredo Neves,Confins,MG,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.965396000000000,-19.634099
+GLO - 1087,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-49.1724811,-25.5327132
+GLO - 1088,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Regional De Maringa - Silvio Name Junior,Maringa,PR,-52.0164842,-23.4766098,-49.1724811,-25.5327132
+GLO - 1089,GOL,Regional De Maringa - Silvio Name Junior,Maringa,PR,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-52.0164842,-23.4766098
+GLO - 1090,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Eduardo Gomes,Manaus,AM,-60.046324900000000,-3.0358474000000000,-47.9172348,-15.869736900000000
+GLO - 1091,GOL,Cataratas,Foz Do Iguacu,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-54.4909265,-25.5938142
+GLO - 1092,GOL,Tancredo Neves,Confins,MG,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.965396000000000,-19.634099
+GLO - 1093,GOL,Governador Aluizio Alves,Natal,RN,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-35.3673819,-5.768370200000000
+GLO - 1094,GOL,Tancredo Neves,Confins,MG,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.965396000000000,-19.634099
+GLO - 1095,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-38.3312411,-12.9110977
+GLO - 1096,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-38.3312411,-12.9110977
+GLO - 1097,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-38.3312411,-12.9110977
+GLO - 1098,GOL,Tancredo Neves,Confins,MG,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.965396000000000,-19.634099
+GLO - 1099,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-38.3312411,-12.9110977
+GLO - 1101,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.9172348,-15.869736900000000
+GLO - 1102,GOL,Congonhas,Sao Paulo,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.6565842,-23.6273246
+GLO - 1104,GOL,Guararapes - Gilberto Freyre,Recife,PE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-34.924015400000000,-8.1259315
+GLO - 1106,GOL,Congonhas,Sao Paulo,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.6565842,-23.6273246
+GLO - 1108,GOL,Congonhas,Sao Paulo,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.6565842,-23.6273246
+GLO - 1109,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.2494233,-22.8134098
+GLO - 1110,GOL,Congonhas,Sao Paulo,SP,Regional De Maringa - Silvio Name Junior,Maringa,PR,-52.0164842,-23.4766098,-46.6565842,-23.6273246
+GLO - 1111,GOL,Cataratas,Foz Do Iguacu,PR,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-54.4909265,-25.5938142
+GLO - 1112,GOL,Congonhas,Sao Paulo,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.6565842,-23.6273246
+GLO - 1114,GOL,Congonhas,Sao Paulo,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.6565842,-23.6273246
+GLO - 1115,GOL,Regional De Maringa - Silvio Name Junior,Maringa,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-52.0164842,-23.4766098
+GLO - 1117,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-49.1724811,-25.5327132
+GLO - 1118,GOL,Pinto Martins,Fortaleza,CE,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-38.5330966,-3.7771555
+GLO - 1119,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-49.1724811,-25.5327132
+GLO - 1120,GOL,Guararapes - Gilberto Freyre,Recife,PE,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-34.924015400000000,-8.1259315
+GLO - 1122,GOL,Regional De Maringa - Silvio Name Junior,Maringa,PR,Campo Grande,Campo Grande,MS,-54.6741233,-20.4686937,-52.0164842,-23.4766098
+GLO - 1123,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-49.1724811,-25.5327132
+GLO - 1124,GOL,Salgado Filho,Porto Alegre,RS,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-51.175381100000000,-29.9934732
+GLO - 1125,GOL,Tancredo Neves,Confins,MG,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-43.965396000000000,-19.634099
+GLO - 1126,GOL,Salgado Filho,Porto Alegre,RS,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-51.175381100000000,-29.9934732
+GLO - 1127,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-49.1724811,-25.5327132
+GLO - 1129,GOL,Eduardo Gomes,Manaus,AM,Governador Jorge Teixeira De Oliveira,Porto Velho,RO,-63.89832,-8.7141702,-60.046324900000000,-3.0358474000000000
+GLO - 1131,GOL,Regional De Maringa - Silvio Name Junior,Maringa,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-52.0164842,-23.4766098
+GLO - 1133,GOL,Regional De Maringa - Silvio Name Junior,Maringa,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-52.0164842,-23.4766098
+GLO - 1134,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Zumbi Dos Palmares,Rio Largo,AL,-35.792882900000000,-9.5116056,-38.3312411,-12.9110977
+GLO - 1135,GOL,Marechal Rondon,Varzea Grande,MT,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-56.117268700000000,-15.653078600000000
+GLO - 1136,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.2494233,-22.8134098
+GLO - 1137,GOL,Viracopos,Campinas,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.1375685,-23.008205
+GLO - 1138,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Santa Maria,Aracaju,SE,-37.07624620000000,-10.9822278,-43.2494233,-22.8134098
+GLO - 1139,GOL,Santa Maria,Aracaju,SE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-37.07624620000000,-10.9822278
+GLO - 1141,GOL,Governador Jose Richa,Londrina,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-51.133159900000000,-23.332071400000000
+GLO - 1143,GOL,Governador Jose Richa,Londrina,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-51.133159900000000,-23.332071400000000
+GLO - 1145,GOL,Cataratas,Foz Do Iguacu,PR,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-54.4909265,-25.5938142
+GLO - 1147,GOL,Guararapes - Gilberto Freyre,Recife,PE,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-34.924015400000000,-8.1259315
+GLO - 1148,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.9172348,-15.869736900000000
+GLO - 1149,GOL,Guararapes - Gilberto Freyre,Recife,PE,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-34.924015400000000,-8.1259315
+GLO - 1150,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.3312411,-12.9110977
+GLO - 1151,GOL,Guararapes - Gilberto Freyre,Recife,PE,Fernando De Noronha,Fernando De Noronha,PE,-32.4243853,-3.8546145,-34.924015400000000,-8.1259315
+GLO - 1152,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Regional De Maringa - Silvio Name Junior,Maringa,PR,-52.0164842,-23.4766098,-49.1724811,-25.5327132
+GLO - 1153,GOL,Santa Genoveva,Goiania,GO,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-49.2221166,-16.632488000000000
+GLO - 1154,GOL,Tancredo Neves,Confins,MG,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.965396000000000,-19.634099
+GLO - 1155,GOL,Eurico De Aguiar Salles,Vitoria,ES,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-40.2835346,-20.257648900000000
+GLO - 1156,GOL,Tancredo Neves,Confins,MG,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.965396000000000,-19.634099
+GLO - 1157,GOL,Eurico De Aguiar Salles,Vitoria,ES,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-40.2835346,-20.257648900000000
+GLO - 1158,GOL,Fernando De Noronha,Fernando De Noronha,PE,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-32.4243853,-3.8546145
+GLO - 1159,GOL,Eurico De Aguiar Salles,Vitoria,ES,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-40.2835346,-20.257648900000000
+GLO - 1160,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.478126,-23.434552900000000
+GLO - 1161,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.3312411,-12.9110977
+GLO - 1162,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.478126,-23.434552900000000
+GLO - 1164,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.478126,-23.434552900000000
+GLO - 1165,GOL,Tancredo Neves,Confins,MG,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.965396000000000,-19.634099
+GLO - 1166,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.478126,-23.434552900000000
+GLO - 1168,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.478126,-23.434552900000000
+GLO - 1169,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.3312411,-12.9110977
+GLO - 1170,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Presidente Joao Suassuna,Campina Grande,PB,-35.8940206,-7.2688784,-38.3312411,-12.9110977
+GLO - 1172,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.478126,-23.434552900000000
+GLO - 1173,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.3312411,-12.9110977
+GLO - 1174,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-43.2494233,-22.8134098
+GLO - 1175,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-49.1724811,-25.5327132
+GLO - 1176,GOL,Congonhas,Sao Paulo,SP,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-46.6565842,-23.6273246
+GLO - 1177,GOL,Tancredo Neves,Confins,MG,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-43.965396000000000,-19.634099
+GLO - 1179,GOL,Guararapes - Gilberto Freyre,Recife,PE,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-34.924015400000000,-8.1259315
+GLO - 1180,GOL,Congonhas,Sao Paulo,SP,Tenente-Coronel Aviador Cesar Bombonato,Uberlandia,MG,-48.2308653,-18.888969,-46.6565842,-23.6273246
+GLO - 1181,GOL,Presidente Castro Pinto,Bayeux,PB,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-34.950613700000000,-7.147060000000000
+GLO - 1182,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Presidente Castro Pinto,Bayeux,PB,-34.950613700000000,-7.147060000000000,-46.478126,-23.434552900000000
+GLO - 1183,GOL,Salgado Filho,Porto Alegre,RS,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-51.175381100000000,-29.9934732
+GLO - 1184,GOL,Tancredo Neves,Confins,MG,Governador Aluizio Alves,Natal,RN,-35.3673819,-5.768370200000000,-43.965396000000000,-19.634099
+GLO - 1185,GOL,Santos Dumont,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.1648755,-22.911143800000000
+GLO - 1187,GOL,Eduardo Gomes,Manaus,AM,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-60.046324900000000,-3.0358474000000000
+GLO - 1188,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.9172348,-15.869736900000000
+GLO - 1189,GOL,Congonhas,Sao Paulo,SP,Regional De Maringa - Silvio Name Junior,Maringa,PR,-52.0164842,-23.4766098,-46.6565842,-23.6273246
+GLO - 1190,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Governador Jose Richa,Londrina,PR,-51.133159900000000,-23.332071400000000,-46.478126,-23.434552900000000
+GLO - 1191,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.9172348,-15.869736900000000
+GLO - 1192,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-38.3312411,-12.9110977
+GLO - 1193,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-49.1724811,-25.5327132
+GLO - 1194,GOL,Santa Genoveva,Goiania,GO,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-49.2221166,-16.632488000000000
+GLO - 1195,GOL,Congonhas,Sao Paulo,SP,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-46.6565842,-23.6273246
+GLO - 1196,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-47.9172348,-15.869736900000000
+GLO - 1197,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Ministro Victor Konder,Navegantes,SC,-48.649086700000000,-26.8805344,-43.2494233,-22.8134098
+GLO - 1198,GOL,Congonhas,Sao Paulo,SP,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-46.6565842,-23.6273246
+GLO - 1199,GOL,Governador Aluizio Alves,Natal,RN,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-35.3673819,-5.768370200000000
+GLO - 1200,GOL,Congonhas,Sao Paulo,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.6565842,-23.6273246
+GLO - 1201,GOL,Salgado Filho,Porto Alegre,RS,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-51.175381100000000,-29.9934732
+GLO - 1202,GOL,Congonhas,Sao Paulo,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.6565842,-23.6273246
+GLO - 1204,GOL,Congonhas,Sao Paulo,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.6565842,-23.6273246
+GLO - 1206,GOL,Congonhas,Sao Paulo,SP,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-46.6565842,-23.6273246
+GLO - 1208,GOL,Congonhas,Sao Paulo,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.6565842,-23.6273246
+GLO - 1210,GOL,Congonhas,Sao Paulo,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.6565842,-23.6273246
+GLO - 1212,GOL,Congonhas,Sao Paulo,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.6565842,-23.6273246
+GLO - 1214,GOL,Congonhas,Sao Paulo,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.6565842,-23.6273246
+GLO - 1216,GOL,Congonhas,Sao Paulo,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.6565842,-23.6273246
+GLO - 1218,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Governador Jose Richa,Londrina,PR,-51.133159900000000,-23.332071400000000,-49.1724811,-25.5327132
+GLO - 1219,GOL,Governador Jose Richa,Londrina,PR,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-51.133159900000000,-23.332071400000000
+GLO - 1220,GOL,Marechal Cunha Machado,Sao Luis,MA,Senador Petronio Portella,Teresina,PI,-42.8211703,-5.0635434,-44.2348802,-2.5849927000000000
+GLO - 1222,GOL,Congonhas,Sao Paulo,SP,Regional Hugo Cantergiani,Caxias Do Sul,RS,-51.1869302,-29.1949191,-46.6565842,-23.6273246
+GLO - 1223,GOL,Regional Hugo Cantergiani,Caxias Do Sul,RS,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-51.1869302,-29.1949191
+GLO - 1224,GOL,Pinto Martins,Fortaleza,CE,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-38.5330966,-3.7771555
+GLO - 1226,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-47.9172348,-15.869736900000000
+GLO - 1227,GOL,Congonhas,Sao Paulo,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.6565842,-23.6273246
+GLO - 1231,GOL,Regional De Maringa - Silvio Name Junior,Maringa,PR,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-52.0164842,-23.4766098
+GLO - 1232,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-49.1724811,-25.5327132
+GLO - 1233,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-38.3312411,-12.9110977
+GLO - 1234,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-47.9172348,-15.869736900000000
+GLO - 1235,GOL,Pinto Martins,Fortaleza,CE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.5330966,-3.7771555
+GLO - 1237,GOL,Campo Grande,Campo Grande,MS,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-54.6741233,-20.4686937
+GLO - 1238,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Campo Grande,Campo Grande,MS,-54.6741233,-20.4686937,-47.9172348,-15.869736900000000
+GLO - 1239,GOL,Senador Petronio Portella,Teresina,PI,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-42.8211703,-5.0635434
+GLO - 1240,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Governador Aluizio Alves,Natal,RN,-35.3673819,-5.768370200000000,-46.478126,-23.434552900000000
+GLO - 1241,GOL,Governador Aluizio Alves,Natal,RN,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-35.3673819,-5.768370200000000
+GLO - 1242,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Governador Aluizio Alves,Natal,RN,-35.3673819,-5.768370200000000,-46.478126,-23.434552900000000
+GLO - 1243,GOL,Brigadeiro Lysias Rodrigues,Palmas,TO,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-48.3575251,-10.294325600000000
+GLO - 1245,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-47.9172348,-15.869736900000000
+GLO - 1246,GOL,Zumbi Dos Palmares,Rio Largo,AL,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-35.792882900000000,-9.5116056
+GLO - 1247,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.478126,-23.434552900000000
+GLO - 1248,GOL,Congonhas,Sao Paulo,SP,Nelson Rodrigues Guimaraes,Caldas Novas,GO,-48.614822,-17.725328,-46.6565842,-23.6273246
+GLO - 1249,GOL,Nelson Rodrigues Guimaraes,Caldas Novas,GO,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.614822,-17.725328
+GLO - 1250,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Zumbi Dos Palmares,Rio Largo,AL,-35.792882900000000,-9.5116056,-38.3312411,-12.9110977
+GLO - 1251,GOL,Santa Genoveva,Goiania,GO,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-49.2221166,-16.632488000000000
+GLO - 1252,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Senador Petronio Portella,Teresina,PI,-42.8211703,-5.0635434,-47.9172348,-15.869736900000000
+GLO - 1253,GOL,Senador Petronio Portella,Teresina,PI,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-42.8211703,-5.0635434
+GLO - 1255,GOL,Eduardo Gomes,Manaus,AM,Maestro Wilson Fonseca,Santarem,PA,-54.786243300000000,-2.4248295,-60.046324900000000,-3.0358474000000000
+GLO - 1256,GOL,Pinto Martins,Fortaleza,CE,Marechal Cunha Machado,Sao Luis,MA,-44.2348802,-2.5849927000000000,-38.5330966,-3.7771555
+GLO - 1257,GOL,Guararapes - Gilberto Freyre,Recife,PE,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-34.924015400000000,-8.1259315
+GLO - 1258,GOL,Congonhas,Sao Paulo,SP,Ministro Victor Konder,Navegantes,SC,-48.649086700000000,-26.8805344,-46.6565842,-23.6273246
+GLO - 1259,GOL,Ministro Victor Konder,Navegantes,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.649086700000000,-26.8805344
+GLO - 1260,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.478126,-23.434552900000000
+GLO - 1261,GOL,Salgado Filho,Porto Alegre,RS,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-51.175381100000000,-29.9934732
+GLO - 1262,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.478126,-23.434552900000000
+GLO - 1263,GOL,Zumbi Dos Palmares,Rio Largo,AL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-35.792882900000000,-9.5116056
+GLO - 1265,GOL,Hercilio Luz,Florianopolis,SC,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-48.5459657,-27.670118
+GLO - 1266,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.478126,-23.434552900000000
+GLO - 1267,GOL,Hercilio Luz,Florianopolis,SC,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-48.5459657,-27.670118
+GLO - 1268,GOL,Congonhas,Sao Paulo,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.6565842,-23.6273246
+GLO - 1269,GOL,Hercilio Luz,Florianopolis,SC,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-48.5459657,-27.670118
+GLO - 1270,GOL,Tancredo Neves,Confins,MG,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.965396000000000,-19.634099
+GLO - 1271,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.2494233,-22.8134098
+GLO - 1272,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.478126,-23.434552900000000
+GLO - 1273,GOL,Hercilio Luz,Florianopolis,SC,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-48.5459657,-27.670118
+GLO - 1274,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-47.9172348,-15.869736900000000
+GLO - 1275,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Regional De Maringa - Silvio Name Junior,Maringa,PR,-52.0164842,-23.4766098,-46.478126,-23.434552900000000
+GLO - 1276,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Governador Jose Richa,Londrina,PR,-51.133159900000000,-23.332071400000000,-49.1724811,-25.5327132
+GLO - 1277,GOL,Hercilio Luz,Florianopolis,SC,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-48.5459657,-27.670118
+GLO - 1278,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-43.2494233,-22.8134098
+GLO - 1279,GOL,Salgado Filho,Porto Alegre,RS,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-51.175381100000000,-29.9934732
+GLO - 1280,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Senador Petronio Portella,Teresina,PI,-42.8211703,-5.0635434,-47.9172348,-15.869736900000000
+GLO - 1281,GOL,Guararapes - Gilberto Freyre,Recife,PE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-34.924015400000000,-8.1259315
+GLO - 1282,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-46.478126,-23.434552900000000
+GLO - 1283,GOL,Guararapes - Gilberto Freyre,Recife,PE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-34.924015400000000,-8.1259315
+GLO - 1284,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-47.9172348,-15.869736900000000
+GLO - 1285,GOL,Guararapes - Gilberto Freyre,Recife,PE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-34.924015400000000,-8.1259315
+GLO - 1287,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 1288,GOL,Guararapes - Gilberto Freyre,Recife,PE,Senador Nilo Coelho,Petrolina,PE,-40.5660751,-9.3665077,-34.924015400000000,-8.1259315
+GLO - 1289,GOL,Guararapes - Gilberto Freyre,Recife,PE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-34.924015400000000,-8.1259315
+GLO - 1290,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-46.478126,-23.434552900000000
+GLO - 1291,GOL,Senador Nilo Coelho,Petrolina,PE,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-40.5660751,-9.3665077
+GLO - 1292,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-46.478126,-23.434552900000000
+GLO - 1293,GOL,Guararapes - Gilberto Freyre,Recife,PE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-34.924015400000000,-8.1259315
+GLO - 1294,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-47.9172348,-15.869736900000000
+GLO - 1296,GOL,Tancredo Neves,Confins,MG,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-43.965396000000000,-19.634099
+GLO - 1297,GOL,Senador Petronio Portella,Teresina,PI,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-42.8211703,-5.0635434
+GLO - 1298,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Senador Petronio Portella,Teresina,PI,-42.8211703,-5.0635434,-47.9172348,-15.869736900000000
+GLO - 1299,GOL,Porto Seguro,Porto Seguro,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-39.0821431,-16.4395303
+GLO - 1300,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 1301,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1302,GOL,Tancredo Neves,Confins,MG,Mario Ribeiro,Montes Claros,MG,-43.8200869,-16.704617200000000,-43.965396000000000,-19.634099
+GLO - 1303,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1304,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 1305,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Marechal Cunha Machado,Sao Luis,MA,-44.2348802,-2.5849927000000000,-47.9172348,-15.869736900000000
+GLO - 1306,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 1307,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1308,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 1309,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1310,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 1311,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1312,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 1313,GOL,Mario Ribeiro,Montes Claros,MG,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.8200869,-16.704617200000000
+GLO - 1314,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 1315,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1316,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 1317,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1318,GOL,Placido De Castro,Sena Madureira,AC,Governador Jorge Teixeira De Oliveira,Porto Velho,RO,-63.89832,-8.7141702,-67.894367,-9.870171000000000
+GLO - 1320,GOL,Tancredo Neves,Confins,MG,Marechal Cunha Machado,Sao Luis,MA,-44.2348802,-2.5849927000000000,-43.965396000000000,-19.634099
+GLO - 1321,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1322,GOL,Congonhas,Sao Paulo,SP,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-46.6565842,-23.6273246
+GLO - 1323,GOL,Guararapes - Gilberto Freyre,Recife,PE,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-34.924015400000000,-8.1259315
+GLO - 1324,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 1325,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1326,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Viracopos,Campinas,SP,-47.1375685,-23.008205,-47.9172348,-15.869736900000000
+GLO - 1328,GOL,Tancredo Neves,Confins,MG,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.965396000000000,-19.634099
+GLO - 1329,GOL,Marechal Cunha Machado,Sao Luis,MA,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-44.2348802,-2.5849927000000000
+GLO - 1330,GOL,Congonhas,Sao Paulo,SP,Tenente-Coronel Aviador Cesar Bombonato,Uberlandia,MG,-48.2308653,-18.888969,-46.6565842,-23.6273246
+GLO - 1331,GOL,Tenente-Coronel Aviador Cesar Bombonato,Uberlandia,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.2308653,-18.888969
+GLO - 1332,GOL,Congonhas,Sao Paulo,SP,Tenente-Coronel Aviador Cesar Bombonato,Uberlandia,MG,-48.2308653,-18.888969,-46.6565842,-23.6273246
+GLO - 1333,GOL,Tenente-Coronel Aviador Cesar Bombonato,Uberlandia,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.2308653,-18.888969
+GLO - 1334,GOL,Santos Dumont,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.1648755,-22.911143800000000
+GLO - 1335,GOL,Governador Jorge Teixeira De Oliveira,Porto Velho,RO,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-63.89832,-8.7141702
+GLO - 1336,GOL,Congonhas,Sao Paulo,SP,Lauro Carneiro De Loyola,Joinville,SC,-48.799841800000000,-26.2234999,-46.6565842,-23.6273246
+GLO - 1337,GOL,Lauro Carneiro De Loyola,Joinville,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.799841800000000,-26.2234999
+GLO - 1338,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 1339,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.9172348,-15.869736900000000
+GLO - 1340,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Maraba,Maraba,PA,-49.1369385,-5.3717191,-47.9172348,-15.869736900000000
+GLO - 1341,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-46.478126,-23.434552900000000
+GLO - 1342,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Tenente-Coronel Aviador Cesar Bombonato,Uberlandia,MG,-48.2308653,-18.888969,-46.478126,-23.434552900000000
+GLO - 1344,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-47.9172348,-15.869736900000000
+GLO - 1345,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Governador Aluizio Alves,Natal,RN,-35.3673819,-5.768370200000000,-47.9172348,-15.869736900000000
+GLO - 1346,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-47.9172348,-15.869736900000000
+GLO - 1347,GOL,Val De Cans,Belem,PA,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-48.4775227,-1.3820615
+GLO - 1348,GOL,Tancredo Neves,Confins,MG,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.965396000000000,-19.634099
+GLO - 1349,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-38.3312411,-12.9110977
+GLO - 1350,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santa Maria,Aracaju,SE,-37.07624620000000,-10.9822278,-46.478126,-23.434552900000000
+GLO - 1351,GOL,Presidente Castro Pinto,Bayeux,PB,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-34.950613700000000,-7.147060000000000
+GLO - 1352,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santa Maria,Aracaju,SE,-37.07624620000000,-10.9822278,-46.478126,-23.434552900000000
+GLO - 1353,GOL,Marechal Cunha Machado,Sao Luis,MA,Prefeito Renato Moreira,Imperatriz,MA,-47.4560696,-5.5316945,-44.2348802,-2.5849927000000000
+GLO - 1354,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-47.9172348,-15.869736900000000
+GLO - 1356,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 1358,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-47.9172348,-15.869736900000000
+GLO - 1360,GOL,Congonhas,Sao Paulo,SP,Campo Grande,Campo Grande,MS,-54.6741233,-20.4686937,-46.6565842,-23.6273246
+GLO - 1361,GOL,Campo Grande,Campo Grande,MS,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-54.6741233,-20.4686937
+GLO - 1362,GOL,Atlas Brasil Cantanhede,Boa Vista,RR,Eduardo Gomes,Manaus,AM,-60.046324900000000,-3.0358474000000000,-60.69259030000000,2.8419238000000000
+GLO - 1363,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Brigadeiro Lysias Rodrigues,Palmas,TO,-48.3575251,-10.294325600000000,-47.9172348,-15.869736900000000
+GLO - 1364,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.2494233,-22.8134098
+GLO - 1365,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.478126,-23.434552900000000
+GLO - 1366,GOL,Viracopos,Campinas,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-47.1375685,-23.008205
+GLO - 1367,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Viracopos,Campinas,SP,-47.1375685,-23.008205,-49.1724811,-25.5327132
+GLO - 1368,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.478126,-23.434552900000000
+GLO - 1370,GOL,Congonhas,Sao Paulo,SP,Marechal Rondon,Varzea Grande,MT,-56.117268700000000,-15.653078600000000,-46.6565842,-23.6273246
+GLO - 1371,GOL,Marechal Rondon,Varzea Grande,MT,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-56.117268700000000,-15.653078600000000
+GLO - 1372,GOL,Guararapes - Gilberto Freyre,Recife,PE,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-34.924015400000000,-8.1259315
+GLO - 1373,GOL,Zumbi Dos Palmares,Rio Largo,AL,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-35.792882900000000,-9.5116056
+GLO - 1374,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.478126,-23.434552900000000
+GLO - 1375,GOL,Congonhas,Sao Paulo,SP,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-46.6565842,-23.6273246
+GLO - 1376,GOL,Congonhas,Sao Paulo,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.6565842,-23.6273246
+GLO - 1377,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-49.1724811,-25.5327132
+GLO - 1378,GOL,Congonhas,Sao Paulo,SP,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-46.6565842,-23.6273246
+GLO - 1379,GOL,Santa Genoveva,Goiania,GO,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-49.2221166,-16.632488000000000
+GLO - 1381,GOL,Cataratas,Foz Do Iguacu,PR,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-54.4909265,-25.5938142
+GLO - 1382,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-46.478126,-23.434552900000000
+GLO - 1383,GOL,Cataratas,Foz Do Iguacu,PR,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-54.4909265,-25.5938142
+GLO - 1384,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-46.478126,-23.434552900000000
+GLO - 1385,GOL,Cataratas,Foz Do Iguacu,PR,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-54.4909265,-25.5938142
+GLO - 1386,GOL,Congonhas,Sao Paulo,SP,Lauro Carneiro De Loyola,Joinville,SC,-48.799841800000000,-26.2234999,-46.6565842,-23.6273246
+GLO - 1387,GOL,Lauro Carneiro De Loyola,Joinville,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.799841800000000,-26.2234999
+GLO - 1388,GOL,Congonhas,Sao Paulo,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.6565842,-23.6273246
+GLO - 1390,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Zumbi Dos Palmares,Rio Largo,AL,-35.792882900000000,-9.5116056,-43.2494233,-22.8134098
+GLO - 1391,GOL,Zumbi Dos Palmares,Rio Largo,AL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-35.792882900000000,-9.5116056
+GLO - 1392,GOL,Pinto Martins,Fortaleza,CE,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-38.5330966,-3.7771555
+GLO - 1393,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1394,GOL,Congonhas,Sao Paulo,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.6565842,-23.6273246
+GLO - 1395,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-38.3312411,-12.9110977
+GLO - 1397,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-38.3312411,-12.9110977
+GLO - 1399,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1400,GOL,Congonhas,Sao Paulo,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.6565842,-23.6273246
+GLO - 1401,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1402,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Brigadeiro Lysias Rodrigues,Palmas,TO,-48.3575251,-10.294325600000000,-47.9172348,-15.869736900000000
+GLO - 1403,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1404,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.9172348,-15.869736900000000
+GLO - 1405,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1406,GOL,Congonhas,Sao Paulo,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.6565842,-23.6273246
+GLO - 1408,GOL,Congonhas,Sao Paulo,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.6565842,-23.6273246
+GLO - 1409,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1410,GOL,Congonhas,Sao Paulo,SP,Bahia - Jorge Amado,Ilheus,BA,-39.0317095,-14.8140511,-46.6565842,-23.6273246
+GLO - 1411,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-38.3312411,-12.9110977
+GLO - 1412,GOL,Congonhas,Sao Paulo,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.6565842,-23.6273246
+GLO - 1413,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1414,GOL,Congonhas,Sao Paulo,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.6565842,-23.6273246
+GLO - 1415,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1416,GOL,Congonhas,Sao Paulo,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.6565842,-23.6273246
+GLO - 1417,GOL,Bahia - Jorge Amado,Ilheus,BA,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-39.0317095,-14.8140511
+GLO - 1418,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.9172348,-15.869736900000000
+GLO - 1419,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1420,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-47.9172348,-15.869736900000000
+GLO - 1421,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1422,GOL,Congonhas,Sao Paulo,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.6565842,-23.6273246
+GLO - 1423,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1424,GOL,Congonhas,Sao Paulo,SP,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-46.6565842,-23.6273246
+GLO - 1425,GOL,Cataratas,Foz Do Iguacu,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-54.4909265,-25.5938142
+GLO - 1426,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1427,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1428,GOL,Santa Genoveva,Goiania,GO,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-49.2221166,-16.632488000000000
+GLO - 1429,GOL,Brigadeiro Lysias Rodrigues,Palmas,TO,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-48.3575251,-10.294325600000000
+GLO - 1430,GOL,Congonhas,Sao Paulo,SP,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-46.6565842,-23.6273246
+GLO - 1431,GOL,Eurico De Aguiar Salles,Vitoria,ES,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-40.2835346,-20.257648900000000
+GLO - 1432,GOL,Congonhas,Sao Paulo,SP,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-46.6565842,-23.6273246
+GLO - 1433,GOL,Santa Genoveva,Goiania,GO,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-49.2221166,-16.632488000000000
+GLO - 1434,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1435,GOL,Congonhas,Sao Paulo,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.6565842,-23.6273246
+GLO - 1436,GOL,Congonhas,Sao Paulo,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.6565842,-23.6273246
+GLO - 1437,GOL,Santa Genoveva,Goiania,GO,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-49.2221166,-16.632488000000000
+GLO - 1439,GOL,Santa Genoveva,Goiania,GO,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-49.2221166,-16.632488000000000
+GLO - 1440,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-43.2494233,-22.8134098
+GLO - 1441,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-49.1724811,-25.5327132
+GLO - 1442,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-43.2494233,-22.8134098
+GLO - 1443,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-49.1724811,-25.5327132
+GLO - 1445,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-49.1724811,-25.5327132
+GLO - 1447,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-49.1724811,-25.5327132
+GLO - 1448,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-43.2494233,-22.8134098
+GLO - 1449,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-49.1724811,-25.5327132
+GLO - 1450,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-43.2494233,-22.8134098
+GLO - 1451,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-49.1724811,-25.5327132
+GLO - 1452,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.2494233,-22.8134098
+GLO - 1453,GOL,Guararapes - Gilberto Freyre,Recife,PE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-34.924015400000000,-8.1259315
+GLO - 1454,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-38.3312411,-12.9110977
+GLO - 1455,GOL,Tancredo Neves,Confins,MG,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.965396000000000,-19.634099
+GLO - 1457,GOL,Eurico De Aguiar Salles,Vitoria,ES,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-40.2835346,-20.257648900000000
+GLO - 1459,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-49.1724811,-25.5327132
+GLO - 1460,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-43.2494233,-22.8134098
+GLO - 1461,GOL,Cataratas,Foz Do Iguacu,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-54.4909265,-25.5938142
+GLO - 1462,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-43.2494233,-22.8134098
+GLO - 1463,GOL,Cataratas,Foz Do Iguacu,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-54.4909265,-25.5938142
+GLO - 1464,GOL,Pinto Martins,Fortaleza,CE,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-38.5330966,-3.7771555
+GLO - 1465,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.1724811,-25.5327132
+GLO - 1466,GOL,Cataratas,Foz Do Iguacu,PR,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-54.4909265,-25.5938142
+GLO - 1467,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-49.1724811,-25.5327132
+GLO - 1468,GOL,Val De Cans,Belem,PA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-48.4775227,-1.3820615
+GLO - 1469,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-46.478126,-23.434552900000000
+GLO - 1470,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.2494233,-22.8134098
+GLO - 1471,GOL,Guararapes - Gilberto Freyre,Recife,PE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-34.924015400000000,-8.1259315
+GLO - 1472,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.2494233,-22.8134098
+GLO - 1473,GOL,Guararapes - Gilberto Freyre,Recife,PE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-34.924015400000000,-8.1259315
+GLO - 1474,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.2494233,-22.8134098
+GLO - 1475,GOL,Guararapes - Gilberto Freyre,Recife,PE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-34.924015400000000,-8.1259315
+GLO - 1476,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.2494233,-22.8134098
+GLO - 1477,GOL,Guararapes - Gilberto Freyre,Recife,PE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-34.924015400000000,-8.1259315
+GLO - 1478,GOL,Tancredo Neves,Confins,MG,Mario Ribeiro,Montes Claros,MG,-43.8200869,-16.704617200000000,-43.965396000000000,-19.634099
+GLO - 1479,GOL,Mario Ribeiro,Montes Claros,MG,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.8200869,-16.704617200000000
+GLO - 1480,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.2494233,-22.8134098
+GLO - 1482,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1483,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.9172348,-15.869736900000000
+GLO - 1484,GOL,Santos Dumont,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.1648755,-22.911143800000000
+GLO - 1485,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.9172348,-15.869736900000000
+GLO - 1486,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-38.3312411,-12.9110977
+GLO - 1487,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.9172348,-15.869736900000000
+GLO - 1488,GOL,Santos Dumont,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.1648755,-22.911143800000000
+GLO - 1489,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.9172348,-15.869736900000000
+GLO - 1490,GOL,Santos Dumont,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.1648755,-22.911143800000000
+GLO - 1491,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.9172348,-15.869736900000000
+GLO - 1492,GOL,Santos Dumont,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.1648755,-22.911143800000000
+GLO - 1494,GOL,Santos Dumont,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.1648755,-22.911143800000000
+GLO - 1496,GOL,Tancredo Neves,Confins,MG,Tenente-Coronel Aviador Cesar Bombonato,Uberlandia,MG,-48.2308653,-18.888969,-43.965396000000000,-19.634099
+GLO - 1497,GOL,Tenente-Coronel Aviador Cesar Bombonato,Uberlandia,MG,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-48.2308653,-18.888969
+GLO - 1498,GOL,Tancredo Neves,Confins,MG,Tenente-Coronel Aviador Cesar Bombonato,Uberlandia,MG,-48.2308653,-18.888969,-43.965396000000000,-19.634099
+GLO - 1499,GOL,Tenente-Coronel Aviador Cesar Bombonato,Uberlandia,MG,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-48.2308653,-18.888969
+GLO - 1500,GOL,Congonhas,Sao Paulo,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.6565842,-23.6273246
+GLO - 1501,GOL,Hercilio Luz,Florianopolis,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.5459657,-27.670118
+GLO - 1503,GOL,Hercilio Luz,Florianopolis,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.5459657,-27.670118
+GLO - 1504,GOL,Congonhas,Sao Paulo,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.6565842,-23.6273246
+GLO - 1505,GOL,Marechal Cunha Machado,Sao Luis,MA,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-44.2348802,-2.5849927000000000
+GLO - 1506,GOL,Congonhas,Sao Paulo,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.6565842,-23.6273246
+GLO - 1508,GOL,Congonhas,Sao Paulo,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.6565842,-23.6273246
+GLO - 1509,GOL,Serafin Enoss Bertaso,Chapeco,SC,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-52.6606432,-27.134138500000000
+GLO - 1511,GOL,Hercilio Luz,Florianopolis,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.5459657,-27.670118
+GLO - 1512,GOL,Hercilio Luz,Florianopolis,SC,Serafin Enoss Bertaso,Chapeco,SC,-52.6606432,-27.134138500000000,-48.5459657,-27.670118
+GLO - 1513,GOL,Tancredo Neves,Confins,MG,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.965396000000000,-19.634099
+GLO - 1514,GOL,Congonhas,Sao Paulo,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.6565842,-23.6273246
+GLO - 1515,GOL,Porto Seguro,Porto Seguro,BA,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-39.0821431,-16.4395303
+GLO - 1516,GOL,Congonhas,Sao Paulo,SP,Bahia - Jorge Amado,Ilheus,BA,-39.0317095,-14.8140511,-46.6565842,-23.6273246
+GLO - 1518,GOL,Congonhas,Sao Paulo,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.6565842,-23.6273246
+GLO - 1519,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-43.2494233,-22.8134098
+GLO - 1520,GOL,Congonhas,Sao Paulo,SP,Ministro Victor Konder,Navegantes,SC,-48.649086700000000,-26.8805344,-46.6565842,-23.6273246
+GLO - 1521,GOL,Ministro Victor Konder,Navegantes,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.649086700000000,-26.8805344
+GLO - 1522,GOL,Congonhas,Sao Paulo,SP,Ministro Victor Konder,Navegantes,SC,-48.649086700000000,-26.8805344,-46.6565842,-23.6273246
+GLO - 1523,GOL,Ministro Victor Konder,Navegantes,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.649086700000000,-26.8805344
+GLO - 1524,GOL,Regional De Maringa - Silvio Name Junior,Maringa,PR,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-52.0164842,-23.4766098
+GLO - 1525,GOL,Ministro Victor Konder,Navegantes,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.649086700000000,-26.8805344
+GLO - 1526,GOL,Congonhas,Sao Paulo,SP,Ministro Victor Konder,Navegantes,SC,-48.649086700000000,-26.8805344,-46.6565842,-23.6273246
+GLO - 1527,GOL,Ministro Victor Konder,Navegantes,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.649086700000000,-26.8805344
+GLO - 1528,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Marechal Rondon,Varzea Grande,MT,-56.117268700000000,-15.653078600000000,-47.9172348,-15.869736900000000
+GLO - 1529,GOL,Marechal Rondon,Varzea Grande,MT,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-56.117268700000000,-15.653078600000000
+GLO - 1530,GOL,Congonhas,Sao Paulo,SP,Lauro Carneiro De Loyola,Joinville,SC,-48.799841800000000,-26.2234999,-46.6565842,-23.6273246
+GLO - 1531,GOL,Lauro Carneiro De Loyola,Joinville,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.799841800000000,-26.2234999
+GLO - 1532,GOL,Congonhas,Sao Paulo,SP,Lauro Carneiro De Loyola,Joinville,SC,-48.799841800000000,-26.2234999,-46.6565842,-23.6273246
+GLO - 1533,GOL,Lauro Carneiro De Loyola,Joinville,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.799841800000000,-26.2234999
+GLO - 1534,GOL,Hercilio Luz,Florianopolis,SC,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-48.5459657,-27.670118
+GLO - 1535,GOL,Pinto Martins,Fortaleza,CE,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-38.5330966,-3.7771555
+GLO - 1538,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-43.2494233,-22.8134098
+GLO - 1539,GOL,Val De Cans,Belem,PA,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-48.4775227,-1.3820615
+GLO - 1540,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-43.2494233,-22.8134098
+GLO - 1541,GOL,Pinto Martins,Fortaleza,CE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.5330966,-3.7771555
+GLO - 1542,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-43.2494233,-22.8134098
+GLO - 1543,GOL,Governador Aluizio Alves,Natal,RN,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-35.3673819,-5.768370200000000
+GLO - 1544,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Governador Aluizio Alves,Natal,RN,-35.3673819,-5.768370200000000,-43.2494233,-22.8134098
+GLO - 1545,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.2494233,-22.8134098
+GLO - 1546,GOL,Presidente Joao Suassuna,Campina Grande,PB,Presidente Castro Pinto,Bayeux,PB,-34.950613700000000,-7.147060000000000,-35.8940206,-7.2688784
+GLO - 1547,GOL,Cataratas,Foz Do Iguacu,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-54.4909265,-25.5938142
+GLO - 1549,GOL,Cataratas,Foz Do Iguacu,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-54.4909265,-25.5938142
+GLO - 1551,GOL,Salgado Filho,Porto Alegre,RS,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-51.175381100000000,-29.9934732
+GLO - 1552,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-43.2494233,-22.8134098
+GLO - 1553,GOL,Marechal Cunha Machado,Sao Luis,MA,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-44.2348802,-2.5849927000000000
+GLO - 1554,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-43.2494233,-22.8134098
+GLO - 1555,GOL,Salgado Filho,Porto Alegre,RS,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-51.175381100000000,-29.9934732
+GLO - 1556,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-43.2494233,-22.8134098
+GLO - 1557,GOL,Salgado Filho,Porto Alegre,RS,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-51.175381100000000,-29.9934732
+GLO - 1559,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.478126,-23.434552900000000
+GLO - 1560,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-43.2494233,-22.8134098
+GLO - 1561,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.3312411,-12.9110977
+GLO - 1562,GOL,Ministro Victor Konder,Navegantes,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.649086700000000,-26.8805344
+GLO - 1563,GOL,Placido De Castro,Sena Madureira,AC,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-67.894367,-9.870171000000000
+GLO - 1564,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Placido De Castro,Sena Madureira,AC,-67.894367,-9.870171000000000,-47.9172348,-15.869736900000000
+GLO - 1565,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-43.2494233,-22.8134098
+GLO - 1566,GOL,Congonhas,Sao Paulo,SP,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-46.6565842,-23.6273246
+GLO - 1567,GOL,Cataratas,Foz Do Iguacu,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-54.4909265,-25.5938142
+GLO - 1568,GOL,Guararapes - Gilberto Freyre,Recife,PE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-34.924015400000000,-8.1259315
+GLO - 1569,GOL,Governador Aluizio Alves,Natal,RN,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-35.3673819,-5.768370200000000
+GLO - 1570,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.2494233,-22.8134098
+GLO - 1571,GOL,Santos Dumont,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.1648755,-22.911143800000000
+GLO - 1572,GOL,Congonhas,Sao Paulo,SP,Ministro Victor Konder,Navegantes,SC,-48.649086700000000,-26.8805344,-46.6565842,-23.6273246
+GLO - 1573,GOL,Marechal Cunha Machado,Sao Luis,MA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-44.2348802,-2.5849927000000000
+GLO - 1574,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Marechal Cunha Machado,Sao Luis,MA,-44.2348802,-2.5849927000000000,-43.2494233,-22.8134098
+GLO - 1575,GOL,Leite Lopes,Ribeirao Preto,SP,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.7751674,-21.134750700000000
+GLO - 1576,GOL,Congonhas,Sao Paulo,SP,Leite Lopes,Ribeirao Preto,SP,-47.7751674,-21.134750700000000,-46.6565842,-23.6273246
+GLO - 1577,GOL,Leite Lopes,Ribeirao Preto,SP,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.7751674,-21.134750700000000
+GLO - 1578,GOL,Congonhas,Sao Paulo,SP,Leite Lopes,Ribeirao Preto,SP,-47.7751674,-21.134750700000000,-46.6565842,-23.6273246
+GLO - 1579,GOL,Tancredo Neves,Confins,MG,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-43.965396000000000,-19.634099
+GLO - 1580,GOL,Eurico De Aguiar Salles,Vitoria,ES,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-40.2835346,-20.257648900000000
+GLO - 1581,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-47.9172348,-15.869736900000000
+GLO - 1582,GOL,Tancredo Neves,Confins,MG,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.965396000000000,-19.634099
+GLO - 1589,GOL,Congonhas,Sao Paulo,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.6565842,-23.6273246
+GLO - 1590,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-46.478126,-23.434552900000000
+GLO - 1591,GOL,Val De Cans,Belem,PA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-48.4775227,-1.3820615
+GLO - 1592,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.2494233,-22.8134098
+GLO - 1593,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.3312411,-12.9110977
+GLO - 1594,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-49.1724811,-25.5327132
+GLO - 1595,GOL,Macapa,Macapa,AP,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-51.067109500000000,0.05000810000000000
+GLO - 1596,GOL,Hercilio Luz,Florianopolis,SC,Serafin Enoss Bertaso,Chapeco,SC,-52.6606432,-27.134138500000000,-48.5459657,-27.670118
+GLO - 1597,GOL,Serafin Enoss Bertaso,Chapeco,SC,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-52.6606432,-27.134138500000000
+GLO - 1598,GOL,Congonhas,Sao Paulo,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.6565842,-23.6273246
+GLO - 1599,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-46.478126,-23.434552900000000
+GLO - 1600,GOL,Congonhas,Sao Paulo,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.6565842,-23.6273246
+GLO - 1601,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.2494233,-22.8134098
+GLO - 1602,GOL,Congonhas,Sao Paulo,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.6565842,-23.6273246
+GLO - 1603,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.2494233,-22.8134098
+GLO - 1604,GOL,Salgado Filho,Porto Alegre,RS,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-51.175381100000000,-29.9934732
+GLO - 1605,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.2494233,-22.8134098
+GLO - 1606,GOL,Congonhas,Sao Paulo,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.6565842,-23.6273246
+GLO - 1607,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.2494233,-22.8134098
+GLO - 1608,GOL,Congonhas,Sao Paulo,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.6565842,-23.6273246
+GLO - 1609,GOL,Hercilio Luz,Florianopolis,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.5459657,-27.670118
+GLO - 1610,GOL,Congonhas,Sao Paulo,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.6565842,-23.6273246
+GLO - 1611,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.2494233,-22.8134098
+GLO - 1612,GOL,Congonhas,Sao Paulo,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.6565842,-23.6273246
+GLO - 1613,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.2494233,-22.8134098
+GLO - 1614,GOL,Congonhas,Sao Paulo,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.6565842,-23.6273246
+GLO - 1615,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.2494233,-22.8134098
+GLO - 1616,GOL,Tancredo Neves,Confins,MG,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.965396000000000,-19.634099
+GLO - 1617,GOL,Guararapes - Gilberto Freyre,Recife,PE,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-34.924015400000000,-8.1259315
+GLO - 1618,GOL,Tancredo Neves,Confins,MG,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.965396000000000,-19.634099
+GLO - 1619,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.3312411,-12.9110977
+GLO - 1620,GOL,Val De Cans,Belem,PA,Macapa,Macapa,AP,-51.067109500000000,0.05000810000000000,-48.4775227,-1.3820615
+GLO - 1621,GOL,Regional Hugo Cantergiani,Caxias Do Sul,RS,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-51.1869302,-29.1949191
+GLO - 1622,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.2494233,-22.8134098
+GLO - 1624,GOL,Tancredo Neves,Confins,MG,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.965396000000000,-19.634099
+GLO - 1625,GOL,Marechal Rondon,Varzea Grande,MT,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-56.117268700000000,-15.653078600000000
+GLO - 1626,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.2494233,-22.8134098
+GLO - 1628,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.2494233,-22.8134098
+GLO - 1629,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.9172348,-15.869736900000000
+GLO - 1631,GOL,Congonhas,Sao Paulo,SP,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-46.6565842,-23.6273246
+GLO - 1632,GOL,Congonhas,Sao Paulo,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.6565842,-23.6273246
+GLO - 1633,GOL,Eurico De Aguiar Salles,Vitoria,ES,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-40.2835346,-20.257648900000000
+GLO - 1634,GOL,Santos Dumont,Rio De Janeiro,RJ,Ministro Victor Konder,Navegantes,SC,-48.649086700000000,-26.8805344,-43.1648755,-22.911143800000000
+GLO - 1635,GOL,Eurico De Aguiar Salles,Vitoria,ES,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-40.2835346,-20.257648900000000
+GLO - 1636,GOL,Guararapes - Gilberto Freyre,Recife,PE,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-34.924015400000000,-8.1259315
+GLO - 1637,GOL,Ministro Victor Konder,Navegantes,SC,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-48.649086700000000,-26.8805344
+GLO - 1638,GOL,Santos Dumont,Rio De Janeiro,RJ,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.1648755,-22.911143800000000
+GLO - 1639,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.2494233,-22.8134098
+GLO - 1640,GOL,Santos Dumont,Rio De Janeiro,RJ,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.1648755,-22.911143800000000
+GLO - 1641,GOL,Tancredo Neves,Confins,MG,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-43.965396000000000,-19.634099
+GLO - 1642,GOL,Tancredo Neves,Confins,MG,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-43.965396000000000,-19.634099
+GLO - 1643,GOL,Eurico De Aguiar Salles,Vitoria,ES,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-40.2835346,-20.257648900000000
+GLO - 1645,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-38.3312411,-12.9110977
+GLO - 1646,GOL,Eduardo Gomes,Manaus,AM,Atlas Brasil Cantanhede,Boa Vista,RR,-60.69259030000000,2.8419238000000000,-60.046324900000000,-3.0358474000000000
+GLO - 1647,GOL,Eduardo Gomes,Manaus,AM,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-60.046324900000000,-3.0358474000000000
+GLO - 1648,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Zumbi Dos Palmares,Rio Largo,AL,-35.792882900000000,-9.5116056,-38.3312411,-12.9110977
+GLO - 1649,GOL,Zumbi Dos Palmares,Rio Largo,AL,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-35.792882900000000,-9.5116056
+GLO - 1650,GOL,Val De Cans,Belem,PA,Marechal Cunha Machado,Sao Luis,MA,-44.2348802,-2.5849927000000000,-48.4775227,-1.3820615
+GLO - 1651,GOL,Eduardo Gomes,Manaus,AM,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-60.046324900000000,-3.0358474000000000
+GLO - 1652,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Eduardo Gomes,Manaus,AM,-60.046324900000000,-3.0358474000000000,-46.478126,-23.434552900000000
+GLO - 1653,GOL,Eduardo Gomes,Manaus,AM,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-60.046324900000000,-3.0358474000000000
+GLO - 1654,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Eduardo Gomes,Manaus,AM,-60.046324900000000,-3.0358474000000000,-47.9172348,-15.869736900000000
+GLO - 1659,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.3312411,-12.9110977
+GLO - 1661,GOL,Porto Seguro,Porto Seguro,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-39.0821431,-16.4395303
+GLO - 1662,GOL,Santos Dumont,Rio De Janeiro,RJ,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.1648755,-22.911143800000000
+GLO - 1663,GOL,Tancredo Neves,Confins,MG,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-43.965396000000000,-19.634099
+GLO - 1664,GOL,Santos Dumont,Rio De Janeiro,RJ,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.1648755,-22.911143800000000
+GLO - 1665,GOL,Tancredo Neves,Confins,MG,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-43.965396000000000,-19.634099
+GLO - 1666,GOL,Santos Dumont,Rio De Janeiro,RJ,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.1648755,-22.911143800000000
+GLO - 1667,GOL,Tenente-Coronel Aviador Cesar Bombonato,Uberlandia,MG,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-48.2308653,-18.888969
+GLO - 1668,GOL,Santos Dumont,Rio De Janeiro,RJ,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.1648755,-22.911143800000000
+GLO - 1669,GOL,Tancredo Neves,Confins,MG,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-43.965396000000000,-19.634099
+GLO - 1670,GOL,Santos Dumont,Rio De Janeiro,RJ,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.1648755,-22.911143800000000
+GLO - 1672,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-47.9172348,-15.869736900000000
+GLO - 1673,GOL,Salgado Filho,Porto Alegre,RS,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-51.175381100000000,-29.9934732
+GLO - 1674,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-47.9172348,-15.869736900000000
+GLO - 1676,GOL,Guararapes - Gilberto Freyre,Recife,PE,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-34.924015400000000,-8.1259315
+GLO - 1677,GOL,Pinto Martins,Fortaleza,CE,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-38.5330966,-3.7771555
+GLO - 1679,GOL,Hercilio Luz,Florianopolis,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.5459657,-27.670118
+GLO - 1680,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.478126,-23.434552900000000
+GLO - 1683,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-47.9172348,-15.869736900000000
+GLO - 1684,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.478126,-23.434552900000000
+GLO - 1685,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-47.9172348,-15.869736900000000
+GLO - 1686,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.478126,-23.434552900000000
+GLO - 1687,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-47.9172348,-15.869736900000000
+GLO - 1691,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-47.9172348,-15.869736900000000
+GLO - 1693,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-47.9172348,-15.869736900000000
+GLO - 1694,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.2494233,-22.8134098
+GLO - 1695,GOL,Eurico De Aguiar Salles,Vitoria,ES,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-40.2835346,-20.257648900000000
+GLO - 1696,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.2494233,-22.8134098
+GLO - 1697,GOL,Santos Dumont,Rio De Janeiro,RJ,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.1648755,-22.911143800000000
+GLO - 1698,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.2494233,-22.8134098
+GLO - 1699,GOL,Eurico De Aguiar Salles,Vitoria,ES,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-40.2835346,-20.257648900000000
+GLO - 1700,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.478126,-23.434552900000000
+GLO - 1701,GOL,Santa Maria,Aracaju,SE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-37.07624620000000,-10.9822278
+GLO - 1702,GOL,Congonhas,Sao Paulo,SP,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-46.6565842,-23.6273246
+GLO - 1703,GOL,Santos Dumont,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.1648755,-22.911143800000000
+GLO - 1704,GOL,Santos Dumont,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.1648755,-22.911143800000000
+GLO - 1705,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.3312411,-12.9110977
+GLO - 1706,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.478126,-23.434552900000000
+GLO - 1707,GOL,Santos Dumont,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.1648755,-22.911143800000000
+GLO - 1708,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.478126,-23.434552900000000
+GLO - 1709,GOL,Santos Dumont,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.1648755,-22.911143800000000
+GLO - 1710,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Santa Maria,Aracaju,SE,-37.07624620000000,-10.9822278,-43.2494233,-22.8134098
+GLO - 1711,GOL,Santos Dumont,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.1648755,-22.911143800000000
+GLO - 1713,GOL,Santos Dumont,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.1648755,-22.911143800000000
+GLO - 1715,GOL,Santos Dumont,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.1648755,-22.911143800000000
+GLO - 1716,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.478126,-23.434552900000000
+GLO - 1718,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.478126,-23.434552900000000
+GLO - 1719,GOL,Santos Dumont,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.1648755,-22.911143800000000
+GLO - 1720,GOL,Regional De Maringa - Silvio Name Junior,Maringa,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-52.0164842,-23.4766098
+GLO - 1721,GOL,Regional De Maringa - Silvio Name Junior,Maringa,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-52.0164842,-23.4766098
+GLO - 1722,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Zumbi Dos Palmares,Rio Largo,AL,-35.792882900000000,-9.5116056,-46.478126,-23.434552900000000
+GLO - 1723,GOL,Pinto Martins,Fortaleza,CE,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-38.5330966,-3.7771555
+GLO - 1724,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-49.1724811,-25.5327132
+GLO - 1725,GOL,Tancredo Neves,Confins,MG,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-43.965396000000000,-19.634099
+GLO - 1726,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Brigadeiro Lysias Rodrigues,Palmas,TO,-48.3575251,-10.294325600000000,-47.9172348,-15.869736900000000
+GLO - 1727,GOL,Congonhas,Sao Paulo,SP,Lauro Carneiro De Loyola,Joinville,SC,-48.799841800000000,-26.2234999,-46.6565842,-23.6273246
+GLO - 1728,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Brigadeiro Lysias Rodrigues,Palmas,TO,-48.3575251,-10.294325600000000,-47.9172348,-15.869736900000000
+GLO - 1729,GOL,Brigadeiro Lysias Rodrigues,Palmas,TO,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-48.3575251,-10.294325600000000
+GLO - 1731,GOL,Ministro Victor Konder,Navegantes,SC,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-48.649086700000000,-26.8805344
+GLO - 1732,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Ministro Victor Konder,Navegantes,SC,-48.649086700000000,-26.8805344,-46.478126,-23.434552900000000
+GLO - 1733,GOL,Zumbi Dos Palmares,Rio Largo,AL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-35.792882900000000,-9.5116056
+GLO - 1734,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Ministro Victor Konder,Navegantes,SC,-48.649086700000000,-26.8805344,-46.478126,-23.434552900000000
+GLO - 1735,GOL,Ministro Victor Konder,Navegantes,SC,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-48.649086700000000,-26.8805344
+GLO - 1736,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Ministro Victor Konder,Navegantes,SC,-48.649086700000000,-26.8805344,-46.478126,-23.434552900000000
+GLO - 1737,GOL,Lauro Carneiro De Loyola,Joinville,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.799841800000000,-26.2234999
+GLO - 1738,GOL,Pinto Martins,Fortaleza,CE,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-38.5330966,-3.7771555
+GLO - 1739,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.2494233,-22.8134098
+GLO - 1740,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.478126,-23.434552900000000
+GLO - 1741,GOL,Governador Jose Richa,Londrina,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-51.133159900000000,-23.332071400000000
+GLO - 1742,GOL,Santos Dumont,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.1648755,-22.911143800000000
+GLO - 1743,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.2494233,-22.8134098
+GLO - 1744,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.478126,-23.434552900000000
+GLO - 1745,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.2494233,-22.8134098
+GLO - 1746,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.478126,-23.434552900000000
+GLO - 1747,GOL,Santa Genoveva,Goiania,GO,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-49.2221166,-16.632488000000000
+GLO - 1748,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.478126,-23.434552900000000
+GLO - 1749,GOL,Tancredo Neves,Confins,MG,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-43.965396000000000,-19.634099
+GLO - 1750,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.478126,-23.434552900000000
+GLO - 1751,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.2494233,-22.8134098
+GLO - 1752,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-43.2494233,-22.8134098
+GLO - 1753,GOL,Santa Genoveva,Goiania,GO,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-49.2221166,-16.632488000000000
+GLO - 1754,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-43.2494233,-22.8134098
+GLO - 1755,GOL,Guararapes - Gilberto Freyre,Recife,PE,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-34.924015400000000,-8.1259315
+GLO - 1756,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.2494233,-22.8134098
+GLO - 1758,GOL,Tancredo Neves,Confins,MG,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-43.965396000000000,-19.634099
+GLO - 1759,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.3312411,-12.9110977
+GLO - 1760,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Marechal Rondon,Varzea Grande,MT,-56.117268700000000,-15.653078600000000,-47.9172348,-15.869736900000000
+GLO - 1761,GOL,Porto Seguro,Porto Seguro,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-39.0821431,-16.4395303
+GLO - 1762,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.9172348,-15.869736900000000
+GLO - 1763,GOL,Pinto Martins,Fortaleza,CE,Eduardo Gomes,Manaus,AM,-60.046324900000000,-3.0358474000000000,-38.5330966,-3.7771555
+GLO - 1764,GOL,Eduardo Gomes,Manaus,AM,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-60.046324900000000,-3.0358474000000000
+GLO - 1767,GOL,Congonhas,Sao Paulo,SP,Governador Jose Richa,Londrina,PR,-51.133159900000000,-23.332071400000000,-46.6565842,-23.6273246
+GLO - 1768,GOL,Hercilio Luz,Florianopolis,SC,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-48.5459657,-27.670118
+GLO - 1769,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-47.9172348,-15.869736900000000
+GLO - 1770,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-46.478126,-23.434552900000000
+GLO - 1771,GOL,Porto Seguro,Porto Seguro,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-39.0821431,-16.4395303
+GLO - 1772,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-46.478126,-23.434552900000000
+GLO - 1773,GOL,Porto Seguro,Porto Seguro,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-39.0821431,-16.4395303
+GLO - 1774,GOL,Eurico De Aguiar Salles,Vitoria,ES,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-40.2835346,-20.257648900000000
+GLO - 1775,GOL,Hercilio Luz,Florianopolis,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.5459657,-27.670118
+GLO - 1776,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Marechal Rondon,Varzea Grande,MT,-56.117268700000000,-15.653078600000000,-47.9172348,-15.869736900000000
+GLO - 1778,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.2494233,-22.8134098
+GLO - 1779,GOL,Eurico De Aguiar Salles,Vitoria,ES,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-40.2835346,-20.257648900000000
+GLO - 1781,GOL,Santa Genoveva,Goiania,GO,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.2221166,-16.632488000000000
+GLO - 1782,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-46.478126,-23.434552900000000
+GLO - 1783,GOL,Santa Genoveva,Goiania,GO,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.2221166,-16.632488000000000
+GLO - 1784,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-46.478126,-23.434552900000000
+GLO - 1785,GOL,Val De Cans,Belem,PA,Eduardo Gomes,Manaus,AM,-60.046324900000000,-3.0358474000000000,-48.4775227,-1.3820615
+GLO - 1786,GOL,Eduardo Gomes,Manaus,AM,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-60.046324900000000,-3.0358474000000000
+GLO - 1787,GOL,Santa Genoveva,Goiania,GO,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.2221166,-16.632488000000000
+GLO - 1788,GOL,Prefeito Renato Moreira,Imperatriz,MA,Marechal Cunha Machado,Sao Luis,MA,-44.2348802,-2.5849927000000000,-47.4560696,-5.5316945
+GLO - 1790,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-38.3312411,-12.9110977
+GLO - 1792,GOL,Viracopos,Campinas,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.1375685,-23.008205
+GLO - 1794,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-47.9172348,-15.869736900000000
+GLO - 1796,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.3312411,-12.9110977
+GLO - 1797,GOL,Senador Petronio Portella,Teresina,PI,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-42.8211703,-5.0635434
+GLO - 1798,GOL,Guararapes - Gilberto Freyre,Recife,PE,Fernando De Noronha,Fernando De Noronha,PE,-32.4243853,-3.8546145,-34.924015400000000,-8.1259315
+GLO - 1799,GOL,Fernando De Noronha,Fernando De Noronha,PE,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-32.4243853,-3.8546145
+GLO - 1800,GOL,Congonhas,Sao Paulo,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.6565842,-23.6273246
+GLO - 1802,GOL,Viracopos,Campinas,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.1375685,-23.008205
+GLO - 1803,GOL,Mario Ribeiro,Montes Claros,MG,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.8200869,-16.704617200000000
+GLO - 1804,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.478126,-23.434552900000000
+GLO - 1805,GOL,Tancredo Neves,Confins,MG,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.965396000000000,-19.634099
+GLO - 1806,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.478126,-23.434552900000000
+GLO - 1807,GOL,Tancredo Neves,Confins,MG,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.965396000000000,-19.634099
+GLO - 1808,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.478126,-23.434552900000000
+GLO - 1809,GOL,Tancredo Neves,Confins,MG,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.965396000000000,-19.634099
+GLO - 1810,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.478126,-23.434552900000000
+GLO - 1811,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-38.3312411,-12.9110977
+GLO - 1812,GOL,Salgado Filho,Porto Alegre,RS,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-51.175381100000000,-29.9934732
+GLO - 1813,GOL,Tancredo Neves,Confins,MG,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.965396000000000,-19.634099
+GLO - 1814,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.478126,-23.434552900000000
+GLO - 1815,GOL,Tancredo Neves,Confins,MG,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.965396000000000,-19.634099
+GLO - 1820,GOL,Eurico De Aguiar Salles,Vitoria,ES,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-40.2835346,-20.257648900000000
+GLO - 1821,GOL,Pinto Martins,Fortaleza,CE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.5330966,-3.7771555
+GLO - 1822,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-46.478126,-23.434552900000000
+GLO - 1823,GOL,Pinto Martins,Fortaleza,CE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.5330966,-3.7771555
+GLO - 1824,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-46.478126,-23.434552900000000
+GLO - 1826,GOL,Hercilio Luz,Florianopolis,SC,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-48.5459657,-27.670118
+GLO - 1827,GOL,Salgado Filho,Porto Alegre,RS,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-51.175381100000000,-29.9934732
+GLO - 1828,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-46.478126,-23.434552900000000
+GLO - 1829,GOL,Pinto Martins,Fortaleza,CE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.5330966,-3.7771555
+GLO - 1830,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-46.478126,-23.434552900000000
+GLO - 1832,GOL,Pinto Martins,Fortaleza,CE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.5330966,-3.7771555
+GLO - 1833,GOL,Marechal Cunha Machado,Sao Luis,MA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-44.2348802,-2.5849927000000000
+GLO - 1834,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Marechal Cunha Machado,Sao Luis,MA,-44.2348802,-2.5849927000000000,-43.2494233,-22.8134098
+GLO - 1835,GOL,Zumbi Dos Palmares,Rio Largo,AL,Viracopos,Campinas,SP,-47.1375685,-23.008205,-35.792882900000000,-9.5116056
+GLO - 1836,GOL,Viracopos,Campinas,SP,Zumbi Dos Palmares,Rio Largo,AL,-35.792882900000000,-9.5116056,-47.1375685,-23.008205
+GLO - 1837,GOL,Maraba,Maraba,PA,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-49.1369385,-5.3717191
+GLO - 1838,GOL,Val De Cans,Belem,PA,Maestro Wilson Fonseca,Santarem,PA,-54.786243300000000,-2.4248295,-48.4775227,-1.3820615
+GLO - 1839,GOL,Maraba,Maraba,PA,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-49.1369385,-5.3717191
+GLO - 1840,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Zumbi Dos Palmares,Rio Largo,AL,-35.792882900000000,-9.5116056,-46.478126,-23.434552900000000
+GLO - 1842,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Zumbi Dos Palmares,Rio Largo,AL,-35.792882900000000,-9.5116056,-46.478126,-23.434552900000000
+GLO - 1843,GOL,Tancredo Neves,Confins,MG,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.965396000000000,-19.634099
+GLO - 1844,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Zumbi Dos Palmares,Rio Largo,AL,-35.792882900000000,-9.5116056,-46.478126,-23.434552900000000
+GLO - 1845,GOL,Zumbi Dos Palmares,Rio Largo,AL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-35.792882900000000,-9.5116056
+GLO - 1846,GOL,Tancredo Neves,Confins,MG,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-43.965396000000000,-19.634099
+GLO - 1847,GOL,Porto Seguro,Porto Seguro,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-39.0821431,-16.4395303
+GLO - 1848,GOL,Tancredo Neves,Confins,MG,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-43.965396000000000,-19.634099
+GLO - 1849,GOL,Porto Seguro,Porto Seguro,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-39.0821431,-16.4395303
+GLO - 1850,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.478126,-23.434552900000000
+GLO - 1851,GOL,Salgado Filho,Porto Alegre,RS,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-51.175381100000000,-29.9934732
+GLO - 1853,GOL,Salgado Filho,Porto Alegre,RS,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-51.175381100000000,-29.9934732
+GLO - 1854,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.478126,-23.434552900000000
+GLO - 1855,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-43.2494233,-22.8134098
+GLO - 1856,GOL,Congonhas,Sao Paulo,SP,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-46.6565842,-23.6273246
+GLO - 1857,GOL,Salgado Filho,Porto Alegre,RS,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-51.175381100000000,-29.9934732
+GLO - 1858,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.478126,-23.434552900000000
+GLO - 1860,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.478126,-23.434552900000000
+GLO - 1861,GOL,Salgado Filho,Porto Alegre,RS,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-51.175381100000000,-29.9934732
+GLO - 1862,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.478126,-23.434552900000000
+GLO - 1863,GOL,Salgado Filho,Porto Alegre,RS,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-51.175381100000000,-29.9934732
+GLO - 1864,GOL,Maestro Wilson Fonseca,Santarem,PA,Eduardo Gomes,Manaus,AM,-60.046324900000000,-3.0358474000000000,-54.786243300000000,-2.4248295
+GLO - 1865,GOL,Eduardo Gomes,Manaus,AM,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-60.046324900000000,-3.0358474000000000
+GLO - 1866,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.9172348,-15.869736900000000
+GLO - 1868,GOL,Eduardo Gomes,Manaus,AM,Maestro Wilson Fonseca,Santarem,PA,-54.786243300000000,-2.4248295,-60.046324900000000,-3.0358474000000000
+GLO - 1869,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-38.3312411,-12.9110977
+GLO - 1870,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.9172348,-15.869736900000000
+GLO - 1871,GOL,Marechal Rondon,Varzea Grande,MT,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-56.117268700000000,-15.653078600000000
+GLO - 1872,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Marechal Rondon,Varzea Grande,MT,-56.117268700000000,-15.653078600000000,-46.478126,-23.434552900000000
+GLO - 1873,GOL,Marechal Rondon,Varzea Grande,MT,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-56.117268700000000,-15.653078600000000
+GLO - 1875,GOL,Marechal Rondon,Varzea Grande,MT,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-56.117268700000000,-15.653078600000000
+GLO - 1877,GOL,Marechal Rondon,Varzea Grande,MT,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-56.117268700000000,-15.653078600000000
+GLO - 1878,GOL,Congonhas,Sao Paulo,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.6565842,-23.6273246
+GLO - 1879,GOL,Hercilio Luz,Florianopolis,SC,Serafin Enoss Bertaso,Chapeco,SC,-52.6606432,-27.134138500000000,-48.5459657,-27.670118
+GLO - 1880,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Presidente Castro Pinto,Bayeux,PB,-34.950613700000000,-7.147060000000000,-43.2494233,-22.8134098
+GLO - 1881,GOL,Presidente Castro Pinto,Bayeux,PB,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-34.950613700000000,-7.147060000000000
+GLO - 1882,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Presidente Castro Pinto,Bayeux,PB,-34.950613700000000,-7.147060000000000,-43.2494233,-22.8134098
+GLO - 1883,GOL,Presidente Castro Pinto,Bayeux,PB,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-34.950613700000000,-7.147060000000000
+GLO - 1884,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Santa Maria,Aracaju,SE,-37.07624620000000,-10.9822278,-38.3312411,-12.9110977
+GLO - 1885,GOL,Santa Maria,Aracaju,SE,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-37.07624620000000,-10.9822278
+GLO - 1886,GOL,Congonhas,Sao Paulo,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.6565842,-23.6273246
+GLO - 1887,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Eduardo Gomes,Manaus,AM,-60.046324900000000,-3.0358474000000000,-46.478126,-23.434552900000000
+GLO - 1888,GOL,Guararapes - Gilberto Freyre,Recife,PE,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-34.924015400000000,-8.1259315
+GLO - 1889,GOL,Eduardo Gomes,Manaus,AM,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-60.046324900000000,-3.0358474000000000
+GLO - 1890,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Campo Grande,Campo Grande,MS,-54.6741233,-20.4686937,-46.478126,-23.434552900000000
+GLO - 1891,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.2494233,-22.8134098
+GLO - 1892,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Campo Grande,Campo Grande,MS,-54.6741233,-20.4686937,-46.478126,-23.434552900000000
+GLO - 1893,GOL,Campo Grande,Campo Grande,MS,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-54.6741233,-20.4686937
+GLO - 1895,GOL,Campo Grande,Campo Grande,MS,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-54.6741233,-20.4686937
+GLO - 1896,GOL,Santos Dumont,Rio De Janeiro,RJ,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.1648755,-22.911143800000000
+GLO - 1898,GOL,Brigadeiro Lysias Rodrigues,Palmas,TO,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-48.3575251,-10.294325600000000
+GLO - 1899,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-38.3312411,-12.9110977
+GLO - 1900,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-46.478126,-23.434552900000000
+GLO - 1901,GOL,Marechal Cunha Machado,Sao Luis,MA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-44.2348802,-2.5849927000000000
+GLO - 1902,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Marechal Cunha Machado,Sao Luis,MA,-44.2348802,-2.5849927000000000,-46.478126,-23.434552900000000
+GLO - 1903,GOL,Pinto Martins,Fortaleza,CE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.5330966,-3.7771555
+GLO - 1904,GOL,Congonhas,Sao Paulo,SP,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-46.6565842,-23.6273246
+GLO - 1908,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Zumbi Dos Palmares,Rio Largo,AL,-35.792882900000000,-9.5116056,-47.9172348,-15.869736900000000
+GLO - 1910,GOL,Bahia - Jorge Amado,Ilheus,BA,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-39.0317095,-14.8140511
+GLO - 1911,GOL,Guararapes - Gilberto Freyre,Recife,PE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-34.924015400000000,-8.1259315
+GLO - 1912,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Marechal Cunha Machado,Sao Luis,MA,-44.2348802,-2.5849927000000000,-47.9172348,-15.869736900000000
+GLO - 1913,GOL,Guararapes - Gilberto Freyre,Recife,PE,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-34.924015400000000,-8.1259315
+GLO - 1915,GOL,Hercilio Luz,Florianopolis,SC,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-48.5459657,-27.670118
+GLO - 1916,GOL,Hercilio Luz,Florianopolis,SC,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-48.5459657,-27.670118
+GLO - 1917,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1918,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Ministro Victor Konder,Navegantes,SC,-48.649086700000000,-26.8805344,-43.2494233,-22.8134098
+GLO - 1919,GOL,Ministro Victor Konder,Navegantes,SC,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-48.649086700000000,-26.8805344
+GLO - 1920,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.478126,-23.434552900000000
+GLO - 1921,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.1724811,-25.5327132
+GLO - 1922,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-49.1724811,-25.5327132
+GLO - 1923,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.1724811,-25.5327132
+GLO - 1924,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.478126,-23.434552900000000
+GLO - 1925,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.1724811,-25.5327132
+GLO - 1926,GOL,Macapa,Macapa,AP,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-51.067109500000000,0.05000810000000000
+GLO - 1927,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.1724811,-25.5327132
+GLO - 1928,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.478126,-23.434552900000000
+GLO - 1929,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.9172348,-15.869736900000000
+GLO - 1930,GOL,Salgado Filho,Porto Alegre,RS,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-51.175381100000000,-29.9934732
+GLO - 1931,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.1724811,-25.5327132
+GLO - 1933,GOL,Cataratas,Foz Do Iguacu,PR,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-54.4909265,-25.5938142
+GLO - 1934,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Santa Maria,Aracaju,SE,-37.07624620000000,-10.9822278,-43.2494233,-22.8134098
+GLO - 1935,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.9172348,-15.869736900000000
+GLO - 1936,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Santa Maria,Aracaju,SE,-37.07624620000000,-10.9822278,-43.2494233,-22.8134098
+GLO - 1937,GOL,Santa Maria,Aracaju,SE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-37.07624620000000,-10.9822278
+GLO - 1938,GOL,Eduardo Gomes,Manaus,AM,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-60.046324900000000,-3.0358474000000000
+GLO - 1939,GOL,Pinto Martins,Fortaleza,CE,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-38.5330966,-3.7771555
+GLO - 1940,GOL,Congonhas,Sao Paulo,SP,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-46.6565842,-23.6273246
+GLO - 1941,GOL,Eurico De Aguiar Salles,Vitoria,ES,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-40.2835346,-20.257648900000000
+GLO - 1942,GOL,Tancredo Neves,Confins,MG,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-43.965396000000000,-19.634099
+GLO - 1943,GOL,Santa Genoveva,Goiania,GO,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-49.2221166,-16.632488000000000
+GLO - 1944,GOL,Viracopos,Campinas,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-47.1375685,-23.008205
+GLO - 1945,GOL,Eduardo Gomes,Manaus,AM,Governador Jorge Teixeira De Oliveira,Porto Velho,RO,-63.89832,-8.7141702,-60.046324900000000,-3.0358474000000000
+GLO - 1946,GOL,Salgado Filho,Porto Alegre,RS,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-51.175381100000000,-29.9934732
+GLO - 1947,GOL,Hercilio Luz,Florianopolis,SC,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-48.5459657,-27.670118
+GLO - 1948,GOL,Salgado Filho,Porto Alegre,RS,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-51.175381100000000,-29.9934732
+GLO - 1949,GOL,Hercilio Luz,Florianopolis,SC,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-48.5459657,-27.670118
+GLO - 1950,GOL,Congonhas,Sao Paulo,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.6565842,-23.6273246
+GLO - 1951,GOL,Hercilio Luz,Florianopolis,SC,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-48.5459657,-27.670118
+GLO - 1952,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Governador Aluizio Alves,Natal,RN,-35.3673819,-5.768370200000000,-43.2494233,-22.8134098
+GLO - 1953,GOL,Governador Aluizio Alves,Natal,RN,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-35.3673819,-5.768370200000000
+GLO - 1954,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Governador Aluizio Alves,Natal,RN,-35.3673819,-5.768370200000000,-43.2494233,-22.8134098
+GLO - 1955,GOL,Porto Seguro,Porto Seguro,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-39.0821431,-16.4395303
+GLO - 1957,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 1958,GOL,Viracopos,Campinas,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-47.1375685,-23.008205
+GLO - 1959,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Viracopos,Campinas,SP,-47.1375685,-23.008205,-47.9172348,-15.869736900000000
+GLO - 1960,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.2494233,-22.8134098
+GLO - 1961,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.3312411,-12.9110977
+GLO - 1962,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.2494233,-22.8134098
+GLO - 1963,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.3312411,-12.9110977
+GLO - 1964,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.2494233,-22.8134098
+GLO - 1965,GOL,Tancredo Neves,Confins,MG,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-43.965396000000000,-19.634099
+GLO - 1966,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.2494233,-22.8134098
+GLO - 1967,GOL,Val De Cans,Belem,PA,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-48.4775227,-1.3820615
+GLO - 1968,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-47.9172348,-15.869736900000000
+GLO - 1969,GOL,Santa Maria,Aracaju,SE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-37.07624620000000,-10.9822278
+GLO - 1970,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.2494233,-22.8134098
+GLO - 1971,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-38.3312411,-12.9110977
+GLO - 1972,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.2494233,-22.8134098
+GLO - 1973,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.3312411,-12.9110977
+GLO - 1974,GOL,Marechal Rondon,Varzea Grande,MT,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-56.117268700000000,-15.653078600000000
+GLO - 1975,GOL,Governador Jorge Teixeira De Oliveira,Porto Velho,RO,Eduardo Gomes,Manaus,AM,-60.046324900000000,-3.0358474000000000,-63.89832,-8.7141702
+GLO - 1976,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-47.9172348,-15.869736900000000
+GLO - 1977,GOL,Mario Ribeiro,Montes Claros,MG,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.8200869,-16.704617200000000
+GLO - 1978,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-47.9172348,-15.869736900000000
+GLO - 1979,GOL,Macapa,Macapa,AP,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-51.067109500000000,0.05000810000000000
+GLO - 1980,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.9172348,-15.869736900000000
+GLO - 1981,GOL,Eurico De Aguiar Salles,Vitoria,ES,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-40.2835346,-20.257648900000000
+GLO - 1982,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-46.478126,-23.434552900000000
+GLO - 1983,GOL,Eurico De Aguiar Salles,Vitoria,ES,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-40.2835346,-20.257648900000000
+GLO - 1984,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-46.478126,-23.434552900000000
+GLO - 1985,GOL,Eurico De Aguiar Salles,Vitoria,ES,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-40.2835346,-20.257648900000000
+GLO - 1987,GOL,Eurico De Aguiar Salles,Vitoria,ES,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-40.2835346,-20.257648900000000
+GLO - 1988,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Marechal Rondon,Varzea Grande,MT,-56.117268700000000,-15.653078600000000,-43.2494233,-22.8134098
+GLO - 1989,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 1990,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.2494233,-22.8134098
+GLO - 1991,GOL,Tancredo Neves,Confins,MG,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-43.965396000000000,-19.634099
+GLO - 1992,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.2494233,-22.8134098
+GLO - 1993,GOL,Tancredo Neves,Confins,MG,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-43.965396000000000,-19.634099
+GLO - 1994,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.2494233,-22.8134098
+GLO - 1996,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.2494233,-22.8134098
+GLO - 1998,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-43.2494233,-22.8134098
+GLO - 1999,GOL,Macapa,Macapa,AP,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-51.067109500000000,0.05000810000000000
+GLO - 2000,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Governador Jorge Teixeira De Oliveira,Porto Velho,RO,-63.89832,-8.7141702,-46.478126,-23.434552900000000
+GLO - 2001,GOL,Governador Jorge Teixeira De Oliveira,Porto Velho,RO,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-63.89832,-8.7141702
+GLO - 2002,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.478126,-23.434552900000000
+GLO - 2003,GOL,Eurico De Aguiar Salles,Vitoria,ES,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-40.2835346,-20.257648900000000
+GLO - 2004,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.478126,-23.434552900000000
+GLO - 2005,GOL,Santos Dumont,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.1648755,-22.911143800000000
+GLO - 2006,GOL,Bahia - Jorge Amado,Ilheus,BA,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-39.0317095,-14.8140511
+GLO - 2007,GOL,Tancredo Neves,Confins,MG,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.965396000000000,-19.634099
+GLO - 2008,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.478126,-23.434552900000000
+GLO - 2009,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Bahia - Jorge Amado,Ilheus,BA,-39.0317095,-14.8140511,-38.3312411,-12.9110977
+GLO - 2010,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.478126,-23.434552900000000
+GLO - 2011,GOL,Bauru/Arealva,Arealva,SP,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.0721697,-22.165992200000000
+GLO - 2012,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.478126,-23.434552900000000
+GLO - 2013,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-38.3312411,-12.9110977
+GLO - 2014,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-46.478126,-23.434552900000000
+GLO - 2017,GOL,Bahia - Jorge Amado,Ilheus,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-39.0317095,-14.8140511
+GLO - 2018,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.478126,-23.434552900000000
+GLO - 2020,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.478126,-23.434552900000000
+GLO - 2021,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.9172348,-15.869736900000000
+GLO - 2022,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.478126,-23.434552900000000
+GLO - 2023,GOL,Eduardo Gomes,Manaus,AM,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-60.046324900000000,-3.0358474000000000
+GLO - 2024,GOL,Viracopos,Campinas,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-47.1375685,-23.008205
+GLO - 2025,GOL,Salgado Filho,Porto Alegre,RS,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-51.175381100000000,-29.9934732
+GLO - 2026,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.478126,-23.434552900000000
+GLO - 2027,GOL,Guararapes - Gilberto Freyre,Recife,PE,Governador Aluizio Alves,Natal,RN,-35.3673819,-5.768370200000000,-34.924015400000000,-8.1259315
+GLO - 2028,GOL,Governador Aluizio Alves,Natal,RN,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-35.3673819,-5.768370200000000
+GLO - 2029,GOL,Salgado Filho,Porto Alegre,RS,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-51.175381100000000,-29.9934732
+GLO - 2030,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.2494233,-22.8134098
+GLO - 2031,GOL,Governador Jose Richa,Londrina,PR,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-51.133159900000000,-23.332071400000000
+GLO - 2032,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Regional De Maringa - Silvio Name Junior,Maringa,PR,-52.0164842,-23.4766098,-46.478126,-23.434552900000000
+GLO - 2033,GOL,Pinto Martins,Fortaleza,CE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.5330966,-3.7771555
+GLO - 2034,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-46.478126,-23.434552900000000
+GLO - 2035,GOL,Pinto Martins,Fortaleza,CE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.5330966,-3.7771555
+GLO - 2036,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.478126,-23.434552900000000
+GLO - 2037,GOL,Ministro Victor Konder,Navegantes,SC,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-48.649086700000000,-26.8805344
+GLO - 2038,GOL,Professor Eriberto Manoel Reino,Sao Jose Do Rio Preto,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-49.4066209,-20.8159034
+GLO - 2039,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Professor Eriberto Manoel Reino,Sao Jose Do Rio Preto,SP,-49.4066209,-20.8159034,-47.9172348,-15.869736900000000
+GLO - 2040,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-43.2494233,-22.8134098
+GLO - 2041,GOL,Afonso Pena,Sao Jose Dos Pinhais,PR,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-49.1724811,-25.5327132
+GLO - 2042,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-38.3312411,-12.9110977
+GLO - 2043,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.3312411,-12.9110977
+GLO - 2044,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.478126,-23.434552900000000
+GLO - 2045,GOL,Tenente-Coronel Aviador Cesar Bombonato,Uberlandia,MG,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-48.2308653,-18.888969
+GLO - 2046,GOL,Eurico De Aguiar Salles,Vitoria,ES,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-40.2835346,-20.257648900000000
+GLO - 2047,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.2494233,-22.8134098
+GLO - 2048,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Zumbi Dos Palmares,Rio Largo,AL,-35.792882900000000,-9.5116056,-38.3312411,-12.9110977
+GLO - 2050,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Presidente Prudente,Presidente Prudente,SP,-51.4176625,-22.1783402,-46.478126,-23.434552900000000
+GLO - 2051,GOL,Santa Maria,Aracaju,SE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-37.07624620000000,-10.9822278
+GLO - 2053,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.2494233,-22.8134098
+GLO - 2054,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Governador Aluizio Alves,Natal,RN,-35.3673819,-5.768370200000000,-46.478126,-23.434552900000000
+GLO - 2055,GOL,Governador Aluizio Alves,Natal,RN,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-35.3673819,-5.768370200000000
+GLO - 2056,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Marechal Rondon,Varzea Grande,MT,-56.117268700000000,-15.653078600000000,-46.478126,-23.434552900000000
+GLO - 2057,GOL,Presidente Prudente,Presidente Prudente,SP,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-51.4176625,-22.1783402
+GLO - 2058,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-43.2494233,-22.8134098
+GLO - 2059,GOL,Governador Aluizio Alves,Natal,RN,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-35.3673819,-5.768370200000000
+GLO - 2061,GOL,Zumbi Dos Palmares,Rio Largo,AL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-35.792882900000000,-9.5116056
+GLO - 2062,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.3312411,-12.9110977
+GLO - 2064,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.478126,-23.434552900000000
+GLO - 2065,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.3312411,-12.9110977
+GLO - 2066,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-46.478126,-23.434552900000000
+GLO - 2068,GOL,Ministro Victor Konder,Navegantes,SC,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-48.649086700000000,-26.8805344
+GLO - 2069,GOL,Pinto Martins,Fortaleza,CE,Governador Aluizio Alves,Natal,RN,-35.3673819,-5.768370200000000,-38.5330966,-3.7771555
+GLO - 2070,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Marechal Rondon,Varzea Grande,MT,-56.117268700000000,-15.653078600000000,-46.478126,-23.434552900000000
+GLO - 2071,GOL,Ministro Victor Konder,Navegantes,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.649086700000000,-26.8805344
+GLO - 2072,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.2494233,-22.8134098
+GLO - 2073,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-46.478126,-23.434552900000000
+GLO - 2074,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Marechal Rondon,Varzea Grande,MT,-56.117268700000000,-15.653078600000000,-46.478126,-23.434552900000000
+GLO - 2075,GOL,Santa Genoveva,Goiania,GO,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.2221166,-16.632488000000000
+GLO - 2076,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santa Genoveva,Goiania,GO,-49.2221166,-16.632488000000000,-46.478126,-23.434552900000000
+GLO - 2077,GOL,Orlando Bezerra De Menezes,Juazeiro Do Norte,CE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-39.272229100000000,-7.215097200000000
+GLO - 2078,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Orlando Bezerra De Menezes,Juazeiro Do Norte,CE,-39.272229100000000,-7.215097200000000,-46.478126,-23.434552900000000
+GLO - 2079,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Eduardo Gomes,Manaus,AM,-60.046324900000000,-3.0358474000000000,-47.9172348,-15.869736900000000
+GLO - 2080,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.478126,-23.434552900000000
+GLO - 2082,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.478126,-23.434552900000000
+GLO - 2083,GOL,Hercilio Luz,Florianopolis,SC,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-48.5459657,-27.670118
+GLO - 2084,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-46.478126,-23.434552900000000
+GLO - 2086,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-46.478126,-23.434552900000000
+GLO - 2087,GOL,Tancredo Neves,Confins,MG,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.965396000000000,-19.634099
+GLO - 2088,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.478126,-23.434552900000000
+GLO - 2089,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-47.9172348,-15.869736900000000
+GLO - 2091,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Senador Petronio Portella,Teresina,PI,-42.8211703,-5.0635434,-46.478126,-23.434552900000000
+GLO - 2092,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-46.478126,-23.434552900000000
+GLO - 2093,GOL,Santa Maria,Aracaju,SE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-37.07624620000000,-10.9822278
+GLO - 2094,GOL,Tancredo Neves,Confins,MG,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-43.965396000000000,-19.634099
+GLO - 2095,GOL,Governador Aluizio Alves,Natal,RN,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-35.3673819,-5.768370200000000
+GLO - 2096,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.2494233,-22.8134098
+GLO - 2097,GOL,Viracopos,Campinas,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.1375685,-23.008205
+GLO - 2098,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-46.478126,-23.434552900000000
+GLO - 2100,GOL,Congonhas,Sao Paulo,SP,Regional De Maringa - Silvio Name Junior,Maringa,PR,-52.0164842,-23.4766098,-46.6565842,-23.6273246
+GLO - 2101,GOL,Regional De Maringa - Silvio Name Junior,Maringa,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-52.0164842,-23.4766098
+GLO - 2102,GOL,Congonhas,Sao Paulo,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.6565842,-23.6273246
+GLO - 2103,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 2104,GOL,Tancredo Neves,Confins,MG,Regional Da Zona Da Mata,Goiana,MG,-43.1709909,-21.514326800000000,-43.965396000000000,-19.634099
+GLO - 2105,GOL,Hercilio Luz,Florianopolis,SC,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.5459657,-27.670118
+GLO - 2106,GOL,Tancredo Neves,Confins,MG,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-43.965396000000000,-19.634099
+GLO - 2107,GOL,Porto Seguro,Porto Seguro,BA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-39.0821431,-16.4395303
+GLO - 2108,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-47.9172348,-15.869736900000000
+GLO - 2110,GOL,Viracopos,Campinas,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.1375685,-23.008205
+GLO - 2111,GOL,Santos Dumont,Rio De Janeiro,RJ,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.1648755,-22.911143800000000
+GLO - 2112,GOL,Viracopos,Campinas,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.1375685,-23.008205
+GLO - 2113,GOL,Santos Dumont,Rio De Janeiro,RJ,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.1648755,-22.911143800000000
+GLO - 2114,GOL,Viracopos,Campinas,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.1375685,-23.008205
+GLO - 2119,GOL,Santos Dumont,Rio De Janeiro,RJ,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.1648755,-22.911143800000000
+GLO - 2120,GOL,Viracopos,Campinas,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.1375685,-23.008205
+GLO - 2121,GOL,Santos Dumont,Rio De Janeiro,RJ,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.1648755,-22.911143800000000
+GLO - 2122,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.9172348,-15.869736900000000
+GLO - 2123,GOL,Santos Dumont,Rio De Janeiro,RJ,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.1648755,-22.911143800000000
+GLO - 2124,GOL,Santos Dumont,Rio De Janeiro,RJ,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.1648755,-22.911143800000000
+GLO - 2125,GOL,Carajas,Parauapebas,PA,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-50.0010055,-6.114454
+GLO - 2126,GOL,Tancredo Neves,Confins,MG,Carajas,Parauapebas,PA,-50.0010055,-6.114454,-43.965396000000000,-19.634099
+GLO - 2127,GOL,Governador Aluizio Alves,Natal,RN,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-35.3673819,-5.768370200000000
+GLO - 2130,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.2494233,-22.8134098
+GLO - 2131,GOL,Viracopos,Campinas,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.1375685,-23.008205
+GLO - 2132,GOL,Congonhas,Sao Paulo,SP,Regional Hugo Cantergiani,Caxias Do Sul,RS,-51.1869302,-29.1949191,-46.6565842,-23.6273246
+GLO - 2133,GOL,Regional Da Zona Da Mata,Goiana,MG,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-43.1709909,-21.514326800000000
+GLO - 2135,GOL,Governador Jorge Teixeira De Oliveira,Porto Velho,RO,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-63.89832,-8.7141702
+GLO - 2136,GOL,Santos Dumont,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.1648755,-22.911143800000000
+GLO - 2137,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.9172348,-15.869736900000000
+GLO - 2138,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-46.478126,-23.434552900000000
+GLO - 2139,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 2140,GOL,Tancredo Neves,Confins,MG,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.965396000000000,-19.634099
+GLO - 2141,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.9172348,-15.869736900000000
+GLO - 2142,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Presidente Prudente,Presidente Prudente,SP,-51.4176625,-22.1783402,-46.478126,-23.434552900000000
+GLO - 2143,GOL,Presidente Prudente,Presidente Prudente,SP,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-51.4176625,-22.1783402
+GLO - 2144,GOL,Salgado Filho,Porto Alegre,RS,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-51.175381100000000,-29.9934732
+GLO - 2145,GOL,Tancredo Neves,Confins,MG,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-43.965396000000000,-19.634099
+GLO - 2146,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Bahia - Jorge Amado,Ilheus,BA,-39.0317095,-14.8140511,-43.2494233,-22.8134098
+GLO - 2147,GOL,Bahia - Jorge Amado,Ilheus,BA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-39.0317095,-14.8140511
+GLO - 2148,GOL,Viracopos,Campinas,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.1375685,-23.008205
+GLO - 2149,GOL,Tancredo Neves,Confins,MG,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-43.965396000000000,-19.634099
+GLO - 2150,GOL,Tancredo Neves,Confins,MG,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.965396000000000,-19.634099
+GLO - 2151,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.9172348,-15.869736900000000
+GLO - 2152,GOL,Santos Dumont,Rio De Janeiro,RJ,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-43.1648755,-22.911143800000000
+GLO - 2153,GOL,Hercilio Luz,Florianopolis,SC,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-48.5459657,-27.670118
+GLO - 2154,GOL,Viracopos,Campinas,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.1375685,-23.008205
+GLO - 2155,GOL,Santos Dumont,Rio De Janeiro,RJ,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.1648755,-22.911143800000000
+GLO - 2156,GOL,Viracopos,Campinas,SP,Governador Aluizio Alves,Natal,RN,-35.3673819,-5.768370200000000,-47.1375685,-23.008205
+GLO - 2157,GOL,Governador Aluizio Alves,Natal,RN,Viracopos,Campinas,SP,-47.1375685,-23.008205,-35.3673819,-5.768370200000000
+GLO - 2158,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.2494233,-22.8134098
+GLO - 2159,GOL,Congonhas,Sao Paulo,SP,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-46.6565842,-23.6273246
+GLO - 2160,GOL,Governador Aluizio Alves,Natal,RN,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-35.3673819,-5.768370200000000
+GLO - 2161,GOL,Hercilio Luz,Florianopolis,SC,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-48.5459657,-27.670118
+GLO - 2163,GOL,Guararapes - Gilberto Freyre,Recife,PE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-34.924015400000000,-8.1259315
+GLO - 2164,GOL,Presidente Joao Suassuna,Campina Grande,PB,Presidente Castro Pinto,Bayeux,PB,-34.950613700000000,-7.147060000000000,-35.8940206,-7.2688784
+GLO - 2165,GOL,Guararapes - Gilberto Freyre,Recife,PE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-34.924015400000000,-8.1259315
+GLO - 2166,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-46.478126,-23.434552900000000
+GLO - 2167,GOL,Porto Seguro,Porto Seguro,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-39.0821431,-16.4395303
+GLO - 2169,GOL,Santos Dumont,Rio De Janeiro,RJ,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.1648755,-22.911143800000000
+GLO - 2170,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Bauru/Arealva,Arealva,SP,-49.0721697,-22.165992200000000,-46.478126,-23.434552900000000
+GLO - 2171,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-38.3312411,-12.9110977
+GLO - 2172,GOL,Marechal Rondon,Varzea Grande,MT,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-56.117268700000000,-15.653078600000000
+GLO - 2173,GOL,Congonhas,Sao Paulo,SP,Marechal Rondon,Varzea Grande,MT,-56.117268700000000,-15.653078600000000,-46.6565842,-23.6273246
+GLO - 2177,GOL,Eurico De Aguiar Salles,Vitoria,ES,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-40.2835346,-20.257648900000000
+GLO - 2178,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Eurico De Aguiar Salles,Vitoria,ES,-40.2835346,-20.257648900000000,-46.478126,-23.434552900000000
+GLO - 2179,GOL,Governador Jorge Teixeira De Oliveira,Porto Velho,RO,Placido De Castro,Sena Madureira,AC,-67.894367,-9.870171000000000,-63.89832,-8.7141702
+GLO - 2180,GOL,Congonhas,Sao Paulo,SP,Governador Jose Richa,Londrina,PR,-51.133159900000000,-23.332071400000000,-46.6565842,-23.6273246
+GLO - 2181,GOL,Governador Jose Richa,Londrina,PR,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-51.133159900000000,-23.332071400000000
+GLO - 2182,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-46.478126,-23.434552900000000
+GLO - 2183,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.2494233,-22.8134098
+GLO - 2184,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-38.3312411,-12.9110977
+GLO - 2185,GOL,Santa Genoveva,Goiania,GO,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-49.2221166,-16.632488000000000
+GLO - 2186,GOL,Viracopos,Campinas,SP,Santos Dumont,Rio De Janeiro,RJ,-43.1648755,-22.911143800000000,-47.1375685,-23.008205
+GLO - 2187,GOL,Congonhas,Sao Paulo,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.6565842,-23.6273246
+GLO - 2188,GOL,Salgado Filho,Porto Alegre,RS,Cataratas,Foz Do Iguacu,PR,-54.4909265,-25.5938142,-51.175381100000000,-29.9934732
+GLO - 2189,GOL,Cataratas,Foz Do Iguacu,PR,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-54.4909265,-25.5938142
+GLO - 2190,GOL,Congonhas,Sao Paulo,SP,Ministro Victor Konder,Navegantes,SC,-48.649086700000000,-26.8805344,-46.6565842,-23.6273246
+GLO - 2195,GOL,Porto Seguro,Porto Seguro,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-39.0821431,-16.4395303
+GLO - 2196,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-38.3312411,-12.9110977
+GLO - 2197,GOL,Santa Genoveva,Goiania,GO,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-49.2221166,-16.632488000000000
+GLO - 2198,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-46.478126,-23.434552900000000
+GLO - 2199,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.478126,-23.434552900000000
+GLO - 4800,GOL,Viracopos,Campinas,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.1375685,-23.008205
+GLO - 4801,GOL,Viracopos,Campinas,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.1375685,-23.008205
+GLO - 4803,GOL,Viracopos,Campinas,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.1375685,-23.008205
+GLO - 4804,GOL,Tancredo Neves,Confins,MG,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.965396000000000,-19.634099
+GLO - 4805,GOL,Tancredo Neves,Confins,MG,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.965396000000000,-19.634099
+GLO - 4808,GOL,Tancredo Neves,Confins,MG,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.965396000000000,-19.634099
+GLO - 4810,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-38.3312411,-12.9110977
+GLO - 4811,GOL,Salgado Filho,Porto Alegre,RS,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-51.175381100000000,-29.9934732
+GLO - 4814,GOL,Congonhas,Sao Paulo,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-46.6565842,-23.6273246
+GLO - 4815,GOL,Porto Seguro,Porto Seguro,BA,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-39.0821431,-16.4395303
+GLO - 4817,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-47.9172348,-15.869736900000000
+GLO - 4832,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.2494233,-22.8134098
+GLO - 4833,GOL,Guararapes - Gilberto Freyre,Recife,PE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-34.924015400000000,-8.1259315
+GLO - 4842,GOL,Viracopos,Campinas,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-47.1375685,-23.008205
+GLO - 4853,GOL,Viracopos,Campinas,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.1375685,-23.008205
+GLO - 4856,GOL,Tancredo Neves,Confins,MG,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.965396000000000,-19.634099
+GLO - 4870,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Macapa,Macapa,AP,-51.067109500000000,0.05000810000000000,-47.9172348,-15.869736900000000
+GLO - 4871,GOL,Macapa,Macapa,AP,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-51.067109500000000,0.05000810000000000
+GLO - 4879,GOL,Congonhas,Sao Paulo,SP,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-46.6565842,-23.6273246
+GLO - 4886,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.9172348,-15.869736900000000
+GLO - 4887,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.2494233,-22.8134098
+GLO - 4888,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-47.9172348,-15.869736900000000
+GLO - 4889,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-43.2494233,-22.8134098
+GLO - 4891,GOL,Guararapes - Gilberto Freyre,Recife,PE,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-34.924015400000000,-8.1259315
+GLO - 4892,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-47.9172348,-15.869736900000000
+GLO - 4893,GOL,Guararapes - Gilberto Freyre,Recife,PE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-34.924015400000000,-8.1259315
+GLO - 4894,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-43.2494233,-22.8134098
+GLO - 4895,GOL,Guararapes - Gilberto Freyre,Recife,PE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-34.924015400000000,-8.1259315
+GLO - 4896,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Guararapes - Gilberto Freyre,Recife,PE,-34.924015400000000,-8.1259315,-46.478126,-23.434552900000000
+GLO - 4911,GOL,Pinto Martins,Fortaleza,CE,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-38.5330966,-3.7771555
+GLO - 4912,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-47.9172348,-15.869736900000000
+GLO - 4913,GOL,Pinto Martins,Fortaleza,CE,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.5330966,-3.7771555
+GLO - 4914,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-43.2494233,-22.8134098
+GLO - 4915,GOL,Pinto Martins,Fortaleza,CE,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.5330966,-3.7771555
+GLO - 4916,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-46.478126,-23.434552900000000
+GLO - 4928,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-46.478126,-23.434552900000000
+GLO - 4936,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Bauru/Arealva,Arealva,SP,-49.0721697,-22.165992200000000,-46.478126,-23.434552900000000
+GLO - 4937,GOL,Bauru/Arealva,Arealva,SP,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.0721697,-22.165992200000000
+GLO - 4938,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Bauru/Arealva,Arealva,SP,-49.0721697,-22.165992200000000,-46.478126,-23.434552900000000
+GLO - 4939,GOL,Bauru/Arealva,Arealva,SP,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-49.0721697,-22.165992200000000
+GLO - 5800,GOL,Viracopos,Campinas,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-47.1375685,-23.008205
+GLO - 5803,GOL,Viracopos,Campinas,SP,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-47.1375685,-23.008205
+GLO - 5808,GOL,Viracopos,Campinas,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-47.1375685,-23.008205
+GLO - 5810,GOL,Viracopos,Campinas,SP,Afonso Pena,Sao Jose Dos Pinhais,PR,-49.1724811,-25.5327132,-47.1375685,-23.008205
+GLO - 5845,GOL,Tancredo Neves,Confins,MG,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.965396000000000,-19.634099
+GLO - 5846,GOL,Tancredo Neves,Confins,MG,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.965396000000000,-19.634099
+GLO - 5849,GOL,Nelson Rodrigues Guimaraes,Caldas Novas,GO,Congonhas,Sao Paulo,SP,-46.6565842,-23.6273246,-48.614822,-17.725328
+GLO - 5874,GOL,Viracopos,Campinas,SP,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-47.1375685,-23.008205
+GLO - 5876,GOL,Salgado Filho,Porto Alegre,RS,Viracopos,Campinas,SP,-47.1375685,-23.008205,-51.175381100000000,-29.9934732
+GLO - 5890,GOL,Tancredo Neves,Confins,MG,Viracopos,Campinas,SP,-47.1375685,-23.008205,-43.965396000000000,-19.634099
+GLO - 5891,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.3312411,-12.9110977
+GLO - 5892,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.478126,-23.434552900000000
+GLO - 5893,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-38.3312411,-12.9110977
+GLO - 5894,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-47.9172348,-15.869736900000000
+GLO - 5895,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-38.3312411,-12.9110977
+GLO - 5896,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-43.2494233,-22.8134098
+GLO - 5897,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-38.3312411,-12.9110977
+GLO - 5898,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-46.478126,-23.434552900000000
+GLO - 5899,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Porto Seguro,Porto Seguro,BA,-39.0821431,-16.4395303,-46.478126,-23.434552900000000
+GLO - 7450,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-46.478126,-23.434552900000000
+GLO - 7451,GOL,Buenos Aires,Buenos Aires,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-58.534828400000000,-34.8150044
+GLO - 7452,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-46.478126,-23.434552900000000
+GLO - 7453,GOL,Buenos Aires,Buenos Aires,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-58.534828400000000,-34.8150044
+GLO - 7454,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-46.478126,-23.434552900000000
+GLO - 7460,GOL,Governador Aluizio Alves,Natal,RN,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-35.3673819,-5.768370200000000
+GLO - 7461,GOL,Buenos Aires,Buenos Aires,N/I,Governador Aluizio Alves,Natal,RN,-35.3673819,-5.768370200000000,-58.534828400000000,-34.8150044
+GLO - 7466,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Rosario,Rosario,N/I,-60.7803905,-32.9168872,-46.478126,-23.434552900000000
+GLO - 7467,GOL,Rosario,Rosario,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-60.7803905,-32.9168872
+GLO - 7470,GOL,Val De Cans,Belem,PA,Zandery,Zandery,N/I,-55.2000586,5.4560033,-48.4775227,-1.3820615
+GLO - 7471,GOL,Zandery,Zandery,N/I,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-55.2000586,5.4560033
+GLO - 7472,GOL,Val De Cans,Belem,PA,Zandery,Zandery,N/I,-55.2000586,5.4560033,-48.4775227,-1.3820615
+GLO - 7473,GOL,Zandery,Zandery,N/I,Val De Cans,Belem,PA,-48.4775227,-1.3820615,-55.2000586,5.4560033
+GLO - 7480,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Assuncao,Assuncao,N/I,-57.5141814,-25.2415129,-46.478126,-23.434552900000000
+GLO - 7481,GOL,Assuncao,Assuncao,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-57.5141814,-25.2415129
+GLO - 7486,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Mendoza,Mendoza,N/I,-68.7984902,-32.8278642,-46.478126,-23.434552900000000
+GLO - 7487,GOL,Mendoza,Mendoza,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-68.7984902,-32.8278642
+GLO - 7488,GOL,Salgado Filho,Porto Alegre,RS,Montevideu,Montevideu,N/I,-56.03024180000000,-34.8371859,-51.175381100000000,-29.9934732
+GLO - 7489,GOL,Montevideu,Montevideu,N/I,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-56.03024180000000,-34.8371859
+GLO - 7490,GOL,Buenos Aires,Buenos Aires,N/I,Deputado Luis Eduardo Magalhaes,Salvador,BA,-38.3312411,-12.9110977,-58.534828400000000,-34.8150044
+GLO - 7491,GOL,Deputado Luis Eduardo Magalhaes,Salvador,BA,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-38.3312411,-12.9110977
+GLO - 7600,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Viru Viru,Viru Viru,N/I,-63.140756500000000,-17.6431198,-46.478126,-23.434552900000000
+GLO - 7601,GOL,Viru Viru,Viru Viru,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-63.140756500000000,-17.6431198
+GLO - 7612,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Cordoba,Cordoba,N/I,-64.2123198,-31.315436700000000,-43.2494233,-22.8134098
+GLO - 7613,GOL,Cordoba,Cordoba,N/I,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-64.2123198,-31.315436700000000
+GLO - 7614,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Cordoba,Cordoba,N/I,-64.2123198,-31.315436700000000,-46.478126,-23.434552900000000
+GLO - 7615,GOL,Cordoba,Cordoba,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-64.2123198,-31.315436700000000
+GLO - 7616,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Rosario,Rosario,N/I,-60.7803905,-32.9168872,-43.2494233,-22.8134098
+GLO - 7617,GOL,Rosario,Rosario,N/I,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-60.7803905,-32.9168872
+GLO - 7622,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Aruba,Aruba,N/I,-70.0119926,12.5015939,-46.478126,-23.434552900000000
+GLO - 7623,GOL,Aruba,Aruba,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-70.0119926,12.5015939
+GLO - 7624,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Caracas/Intl,Caracas/Intl,N/I,-66.81713140000000,10.288347,-46.478126,-23.434552900000000
+GLO - 7625,GOL,Caracas/Intl,Caracas/Intl,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-66.81713140000000,10.288347
+GLO - 7630,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Montevideu,Montevideu,N/I,-56.03024180000000,-34.8371859,-46.478126,-23.434552900000000
+GLO - 7631,GOL,Montevideu,Montevideu,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-56.03024180000000,-34.8371859
+GLO - 7632,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Montevideu,Montevideu,N/I,-56.03024180000000,-34.8371859,-46.478126,-23.434552900000000
+GLO - 7636,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Montevideu,Montevideu,N/I,-56.03024180000000,-34.8371859,-43.2494233,-22.8134098
+GLO - 7637,GOL,Montevideu,Montevideu,N/I,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-56.03024180000000,-34.8371859
+GLO - 7638,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Montevideu,Montevideu,N/I,-56.03024180000000,-34.8371859,-43.2494233,-22.8134098
+GLO - 7639,GOL,Montevideu,Montevideu,N/I,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-56.03024180000000,-34.8371859
+GLO - 7640,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Bridgetown/Grantley Adams,Bridgetown/Grantley Adams,N/I,-59.4877921,13.076584800000000,-46.478126,-23.434552900000000
+GLO - 7641,GOL,Bridgetown/Grantley Adams,Bridgetown/Grantley Adams,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-59.4877921,13.076584800000000
+GLO - 7642,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Assuncao,Assuncao,N/I,-57.5141814,-25.2415129,-46.478126,-23.434552900000000
+GLO - 7643,GOL,Assuncao,Assuncao,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-57.5141814,-25.2415129
+GLO - 7646,GOL,Salgado Filho,Porto Alegre,RS,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-51.175381100000000,-29.9934732
+GLO - 7647,GOL,Buenos Aires,Buenos Aires,N/I,Salgado Filho,Porto Alegre,RS,-51.175381100000000,-29.9934732,-58.534828400000000,-34.8150044
+GLO - 7650,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Punta Cana,Punta Cana,N/I,-68.36839660000000,18.5622845,-43.2494233,-22.8134098
+GLO - 7651,GOL,Punta Cana,Punta Cana,N/I,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-68.36839660000000,18.5622845
+GLO - 7652,GOL,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-43.2494233,-22.8134098
+GLO - 7653,GOL,Buenos Aires,Buenos Aires,N/I,Aeroporto Internacional Do Rio De Janeiro/Galeao,Rio De Janeiro,RJ,-43.2494233,-22.8134098,-58.534828400000000,-34.8150044
+GLO - 7660,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santiago Do Chile,Santiago Do Chile,N/I,-70.7972354,-33.391189400000000,-46.478126,-23.434552900000000
+GLO - 7661,GOL,Santiago Do Chile,Santiago Do Chile,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-70.7972354,-33.391189400000000
+GLO - 7662,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Santiago Do Chile,Santiago Do Chile,N/I,-70.7972354,-33.391189400000000,-46.478126,-23.434552900000000
+GLO - 7663,GOL,Santiago Do Chile,Santiago Do Chile,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-70.7972354,-33.391189400000000
+GLO - 7670,GOL,Buenos Aires,Buenos Aires,N/I,Pinto Martins,Fortaleza,CE,-38.5330966,-3.7771555,-58.534828400000000,-34.8150044
+GLO - 7671,GOL,Pinto Martins,Fortaleza,CE,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-38.5330966,-3.7771555
+GLO - 7680,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Buenos Aires/Aeroparque,Buenos Aires/Aeroparque,N/I,-58.536759,-34.816662,-46.478126,-23.434552900000000
+GLO - 7681,GOL,Buenos Aires/Aeroparque,Buenos Aires/Aeroparque,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-58.536759,-34.816662
+GLO - 7682,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Buenos Aires/Aeroparque,Buenos Aires/Aeroparque,N/I,-58.536759,-34.816662,-46.478126,-23.434552900000000
+GLO - 7683,GOL,Buenos Aires/Aeroparque,Buenos Aires/Aeroparque,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-58.536759,-34.816662
+GLO - 7684,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Buenos Aires/Aeroparque,Buenos Aires/Aeroparque,N/I,-58.536759,-34.816662,-46.478126,-23.434552900000000
+GLO - 7685,GOL,Buenos Aires/Aeroparque,Buenos Aires/Aeroparque,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-58.536759,-34.816662
+GLO - 7690,GOL,Hercilio Luz,Florianopolis,SC,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-48.5459657,-27.670118
+GLO - 7691,GOL,Buenos Aires,Buenos Aires,N/I,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-58.534828400000000,-34.8150044
+GLO - 7692,GOL,Hercilio Luz,Florianopolis,SC,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-48.5459657,-27.670118
+GLO - 7694,GOL,Hercilio Luz,Florianopolis,SC,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-48.5459657,-27.670118
+GLO - 7695,GOL,Buenos Aires,Buenos Aires,N/I,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-58.534828400000000,-34.8150044
+GLO - 7696,GOL,Hercilio Luz,Florianopolis,SC,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-48.5459657,-27.670118
+GLO - 7697,GOL,Buenos Aires,Buenos Aires,N/I,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-58.534828400000000,-34.8150044
+GLO - 7699,GOL,Buenos Aires,Buenos Aires,N/I,Hercilio Luz,Florianopolis,SC,-48.5459657,-27.670118,-58.534828400000000,-34.8150044
+GLO - 7701,GOL,Punta Cana,Punta Cana,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-68.36839660000000,18.5622845
+GLO - 7702,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Punta Cana,Punta Cana,N/I,-68.36839660000000,18.5622845,-46.478126,-23.434552900000000
+GLO - 7720,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Punta Cana,Punta Cana,N/I,-68.36839660000000,18.5622845,-46.478126,-23.434552900000000
+GLO - 7721,GOL,Punta Cana,Punta Cana,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-68.36839660000000,18.5622845
+GLO - 7722,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Punta Cana,Punta Cana,N/I,-68.36839660000000,18.5622845,-46.478126,-23.434552900000000
+GLO - 7723,GOL,Punta Cana,Punta Cana,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-68.36839660000000,18.5622845
+GLO - 7727,GOL,Montevideu,Montevideu,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-56.03024180000000,-34.8371859
+GLO - 7730,GOL,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,Punta Cana,Punta Cana,N/I,-68.36839660000000,18.5622845,-46.478126,-23.434552900000000
+GLO - 7731,GOL,Punta Cana,Punta Cana,N/I,Guarulhos - Governador Andre Franco Montoro,Guarulhos,SP,-46.478126,-23.434552900000000,-68.36839660000000,18.5622845
+GLO - 7734,GOL,Tancredo Neves,Confins,MG,Punta Cana,Punta Cana,N/I,-68.36839660000000,18.5622845,-43.965396000000000,-19.634099
+GLO - 7735,GOL,Punta Cana,Punta Cana,N/I,Tancredo Neves,Confins,MG,-43.965396000000000,-19.634099,-68.36839660000000,18.5622845
+GLO - 7740,GOL,Presidente Juscelino Kubitschek,Brasilia,DF,Buenos Aires,Buenos Aires,N/I,-58.534828400000000,-34.8150044,-47.9172348,-15.869736900000000
+GLO - 7741,GOL,Buenos Aires,Buenos Aires,N/I,Presidente Juscelino Kubitschek,Brasilia,DF,-47.9172348,-15.869736900000000,-58.534828400000000,-34.8150044
