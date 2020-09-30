@@ -38,34 +38,40 @@ def sp(parent, _from, to):
   return sp_map
 
 def djikstra(graph, _from, to=None):
-  distances = {v: float('inf') for v in graph}
-  distances[_from] = 0
-  pq = [(0, _from)]
-  pred = {}
-  while len(pq) > 0:
-    cd, cv = heapq.heappop(pq)
-    if cd > distances[cv]:
-      continue
-    for u, w in graph[cv].items():
-      distance = cd + w
-      if distance < distances[u]:
-        distances[u] = distance
-        pred[u] = cv
-        heapq.heappush(pq, (distance, u))
-  return distances, pred
+  try:
+    distances = {v: float('inf') for v in graph}
+    distances[_from] = 0
+    pq = [(0, _from)]
+    pred = {}
+    while len(pq) > 0:
+      cd, cv = heapq.heappop(pq)
+      if cd > distances[cv]:
+        continue
+      for u, w in graph[cv].items():
+        distance = cd + w
+        if distance < distances[u]:
+          distances[u] = distance
+          pred[u] = cv
+          heapq.heappush(pq, (distance, u))
+    return distances, pred
+  except KeyError:
+    print('This place does not exist')
 
 def shortest_path_using_djikstra(graph, _from, to):
-  d, p = djikstra(graph, _from, to)
-  pred = to
-  path = []
-  while pred != None:
-    path.append(pred)
-    pred = p.get(pred, None)
-  path.reverse()
-  path_map = {}
-  for i, node in enumerate(path[:-1]):
-    path_map[node] = path[i + 1]
-  return path_map, d[to]
+  try:
+    d, p = djikstra(graph, _from, to)
+    pred = to
+    path = []
+    while pred != None:
+      path.append(pred)
+      pred = p.get(pred, None)
+    path.reverse()
+    path_map = {}
+    for i, node in enumerate(path[:-1]):
+      path_map[node] = path[i + 1]
+    return path_map, d[to]
+  except KeyError:
+    print('This place does not exist')
 
 def mst(graph, start):
   mst = defaultdict(set)

@@ -36,7 +36,7 @@ def plot_graph_shortest_path(path):
   G = nx.DiGraph()
   G.add_nodes_from(path.keys())
   for s in path.keys():
-      G.add_edge(s, path[s])
+    G.add_edge(s, path[s])
   pos = nx.spring_layout(G)
   plt.figure(4,figsize=(10,7))
 
@@ -47,15 +47,33 @@ def plot_graph_shortest_path(path):
   )
   plt.show();  
 
+def plot_graph_shortest_path(path, cost):
+  G = nx.DiGraph()
+  G.add_nodes_from(path.keys())
+  for s in path.keys():
+      G.add_edge(s, path[s])
+  pos = nx.spring_layout(G)
+  plt.figure(4,figsize=(20,7))
+  nx.draw_networkx(
+    G,
+    pos = nx.spring_layout(G, k = 0.5, iterations = 25),
+    font_color = 'r'
+    
+  )
+  plt.text(0, 0.5, 'Minimum distance = %f' % cost + ' km')
+  plt.show();  
+
 def main():
   graph = create_graph()
   path = graph_algorithms.bfs(graph, 'Santos Dumont', 'Leite Lopes')
   path = graph_algorithms.sp(path, 'Santos Dumont', 'Leite Lopes')
 # minimum spanning tree  
   mst = graph_algorithms.mst(graph, 'Santos Dumont')
+  print(mst)
 # djikstra
-  print(graph_algorithms.djikstra(graph, 'Santos Dumont'))
-  print(graph_algorithms.shortest_path_using_djikstra(graph, 'Santos Dumont', 'Leite Lopes'))
+  graph_algorithms.djikstra(graph, 'Santos Dumont')
+  djikstra_path = graph_algorithms.shortest_path_using_djikstra(graph, 'Santos Dumont', 'Leite Lopes')
+  plot_graph_shortest_path(djikstra_path[0], djikstra_path[1])
 
 if __name__ == '__main__':
   main()
