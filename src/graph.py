@@ -80,40 +80,48 @@ def main():
   os.system('cls' if os.name == 'nt' else 'clear')
   while loop_condition:
     print('1 - List all airports')
-    print('2 - Use djikstra\'s algorithm to find the shortest path between two airports')
+    print('2 - Use dijkstra\'s algorithm to find the shortest path between two airports')
     print('3 - Generate the minimum spanning tree using prim\'s algorithm')
     print('4 - Use floyd warshall\'s algorithm to find the minimum distance between two airports')
     print('5 - Execution time floyd warshall\'s algorithm for all airports')
     option = input('Enter the option: ')
     if option == '1':
+      os.system('cls' if os.name == 'nt' else 'clear')
       airports = list_airports(graph)
       pp = pprint.PrettyPrinter(indent=8)
       pp.pprint(airports)
     elif option == '2':
+      os.system('cls' if os.name == 'nt' else 'clear')
       try:
         input1 = input('Enter the first airport: ')
         input2 = input('Enter the second airport: ')
-        graph_algorithms.djikstra(graph, input1)
-        djikstra_path = graph_algorithms.shortest_path_using_djikstra(graph, input1, input2)
+        graph_algorithms.dijkstra(graph, input1)
+        dijkstra_path = graph_algorithms.shortest_path_using_dijkstra(graph, input1, input2)
         print('The shortest path and the minimum distance is:')
-        print(djikstra_path[0], djikstra_path[1])
-        plot_graph_shortest_path(djikstra_path[0], djikstra_path[1])
+        print(dijkstra_path[0], dijkstra_path[1])
+        plot_graph_shortest_path(dijkstra_path[0], dijkstra_path[1])
       except KeyError:
-        print('This place does not exist, enter a valid place, please')
+        print('This airport does not exist, enter a valid airport, please')
     elif option == '3':
-      input1 = input('Enter the airport to generate the MST (Minimum Spanning Tree) from this airport: ')
-      mst = graph_algorithms.mst(graph, input1)
-      print('This is a mst from airport %s' % input1)
-      print(dict(mst))
+      os.system('cls' if os.name == 'nt' else 'clear')
+      try:
+        input1 = input('Enter the airport to generate the MST (Minimum Spanning Tree) from this airport: ')
+        mst = graph_algorithms.mst(graph, input1)
+        print('This is a mst from airport %s' % input1)
+        print(dict(mst))
+      except KeyError:
+        print('This airport does not exist, enter a valid airport, please')
     elif option == '4':
+      os.system('cls' if os.name == 'nt' else 'clear')
       dist, pred = graph_algorithms.floyd_warshall(graph)
       input1 = input('Enter the first airport: ')
       input2 = input('Enter the second airport: ')
       try:
         print('The minimum distance between ' + input1 + ' and ' + input2 + ' is: %f' % dist[input1][input2] + ' km')
       except KeyError:
-        print('This place does not exist, enter a valid place, please')
+        print('This airport does not exist, enter a valid airport, please')
     elif option == '5':
+      os.system('cls' if os.name == 'nt' else 'clear')
       print('The execution time of floyd warshall\'s algorithm for all graph is: ' + str(graph_algorithms.get_execution_time_floyd_warshall(graph)) + ' seconds')
     elif option == '0':
       loop_condition = False

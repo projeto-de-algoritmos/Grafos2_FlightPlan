@@ -1,7 +1,7 @@
 from collections import defaultdict
 import heapq, time
 
-def djikstra(graph, _from, to=None):
+def dijkstra(graph, _from, to=None):
   try:
     distances = {v: float('inf') for v in graph}
     distances[_from] = 0
@@ -19,11 +19,11 @@ def djikstra(graph, _from, to=None):
           heapq.heappush(pq, (distance, u))
     return distances, pred
   except KeyError:
-    print('This place does not exist')
+    print('This airport does not exist')
 
-def shortest_path_using_djikstra(graph, _from, to):
+def shortest_path_using_dijkstra(graph, _from, to):
   try:
-    d, p = djikstra(graph, _from, to)
+    d, p = dijkstra(graph, _from, to)
     pred = to
     path = []
     while pred != None:
@@ -35,7 +35,7 @@ def shortest_path_using_djikstra(graph, _from, to):
       path_map[node] = path[i + 1]
     return path_map, d[to]
   except KeyError:
-    print('This place does not exist')
+    print('This airport does not exist')
 
 def floyd_warshall(graph):
   try:
@@ -58,7 +58,7 @@ def floyd_warshall(graph):
             dist[i][j] = dist[i][k] + dist[k][j]
     return dist, pred
   except KeyError:
-    print('This place does not exist')
+    print('This airport does not exist')
 
 def get_execution_time_floyd_warshall(graph):
   start = time.time()
