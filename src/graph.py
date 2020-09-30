@@ -1,5 +1,5 @@
 import json, math
-import gol_flights
+import gol_flights, graph_algorithms
 import networkx as nx
 import matplotlib.pyplot as plt
 
@@ -16,52 +16,14 @@ def create_graph():
     graph[value][dt['Aeroporto.Destino'][key]] = gol_flights.distance(_from, to)
   return graph
 
-def dfs(graph, visited, node):
-  visited[node] = True
-  for u in graph[node]:
-    if u not in visited.keys():
-      dfs(graph, visited, u)
-
-def bfs(graph, _from, to):
-  visited = {}
-  queue = []
-  parent = {}
-  queue.append(_from)
-  visited[_from] = True
-
-  while queue:
-    node = queue.pop(0)
-    sp = []
-
-    for u in graph[node]:
-      if u not in visited.keys():
-        if node not in queue:
-          visited[u] = True
-          queue.append(u)
-          parent[u] = node
-          if (u == to):
-            return parent
-
-def sp(parent, _from, to):
-  sp = [to]
-  while sp[-1] != _from:
-    sp.append(parent[sp[-1]])
-  sp.reverse()
-  sp_map = {}
-  for i, node in enumerate(sp[:-1]):
-    sp_map[node] = sp[i + 1]
-  return sp_map
-
-def djikstra(graph, _from, to):
-  
-
 def plot_graph(path):
   G = nx.DiGraph()
   G.add_nodes_from(path.keys())
   for s in path.keys():
-      G.add_edge(s, path[s])
+    for u in path[s]:
+      G.add_edge(s, u)
   pos = nx.spring_layout(G)
-  plt.figure(4,figsize=(20,10))
+  plt.figure(4,figsize=(10,7))
 
   nx.draw_networkx(
     G,
@@ -70,10 +32,31 @@ def plot_graph(path):
   )
   plt.show();
 
+def plot_graph_shortest_path(path):
+  G = nx.DiGraph()
+  G.add_nodes_from(path.keys())
+  for s in path.keys():
+      G.add_edge(s, path[s])
+  pos = nx.spring_layout(G)
+  plt.figure(4,figsize=(10,7))
+
+  nx.draw_networkx(
+    G,
+    pos = nx.spring_layout(G, k = 0.5, iterations = 25),
+    font_color = 'r'
+  )
+  plt.show();  
+
 def main():
   graph = create_graph()
-  path = bfs(graph, 'Santos Dumont', 'Leite Lopes')
-  path = sp(path, 'Santos Dumont', 'Leite Lopes')
+  path = graph_algorithms.bfs(graph, 'Santos Dumont', 'Leite Lopes')
+  path = graph_algorithms.sp(path, 'Santos Dumont', 'Leite Lopes')
+# minimum spanning tree  
+  mst = graph_algorithms.mst(graph, 'Santos Dumont')
+# djikstra
+  print(graph_algorithms.djikstra(graph, 'Santos Dumont'))
+  print(graph_algorithms.shortest_path_using_djikstra(graph, 'Santos Dumont', 'Leite Lopes'))
+
 if __name__ == '__main__':
   main()
 
