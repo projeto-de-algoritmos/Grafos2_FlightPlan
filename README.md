@@ -1,6 +1,6 @@
 # Flight Plan
 
-**Número da Lista**: 2
+**Número da Lista**: 2 <br>
 **Conteúdo da Disciplina**: Grafos 2<br>
 
 ## Alunos
@@ -40,6 +40,9 @@ python3 graph.py
 
 ## Uso 
 Para usar, basta digitar as opções do menu:
+
+![Menu](/assets/images/menu.png) <br>
+
 * 1 - Lista todos os aeroportos disponíveis;
 * 2 - Usa o Algoritmo de *Djikstra* para encontrar o menor caminho entre dois aeroportos;
 * 3 - Usa o Algoritmo de *Prim* para encontrar a MST (*Minimum Spanning Tree*);
