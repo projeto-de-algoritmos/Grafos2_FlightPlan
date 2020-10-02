@@ -27,13 +27,13 @@ Projeto que consiste em determinar o menor caminho entre dois aeroportos. Foi ut
 
 ## Instalação 
 **Linguagem**: Python 3<br>
-Antes qualquer coisa, instale as dependências do Python:
+Antes qualquer coisa, clone o repositório ```git clone https://github.com/projeto-de-algoritmos/Grafos2_FlightPlan```, abra o terminal e digite ```cd Grafos2_FlightPlan``` e instale as dependências do Python:
 ```
 # Instale no virtualenv caso queira
 pip3 install -r requirements.txt
 ```
 
-E para rodar o projeto, abra o terminal e acesse a pasta src digitando ```cd src``` e, em seguida, digite:
+E para rodar o projeto, acesse a pasta src digitando ```cd src``` e, em seguida, digite:
 ```
 python3 graph.py
 ```
