@@ -104,7 +104,7 @@ def main():
         print('\nThe shortest path is: \n')
         print(dijkstra_path[0])
         print('\nand the minimum distance is: ')
-        print(dijkstra_path[1])
+        print(str(dijkstra_path[1]) + ' km')
         print('')
         plot_graph_shortest_path(dijkstra_path[0], dijkstra_path[1])
         print('\n')
@@ -132,7 +132,7 @@ def main():
                 else:
                     print(value, end=' -> ')
             print('')
-        print('The weight of the mst from airport %s' % input1 + ' is: ' + str(graph_algorithms.get_cost_of_mst(graph, input1)))
+        print('The weight of the mst from airport %s' % input1 + ' is: ' + str(graph_algorithms.get_cost_of_mst(graph, input1)) + ' km')
         print('\n')
       except KeyError:
         print('This airport does not exist, enter a valid airport, please')
