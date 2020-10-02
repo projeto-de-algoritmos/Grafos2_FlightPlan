@@ -83,3 +83,11 @@ def mst(graph, start):
         if to_next not in visited:
           heapq.heappush(edges, (cost, to, to_next))
   return mst
+
+def get_cost_of_mst(graph, start):
+  _mst = mst(graph, start);
+  cost = 0
+  for k in _mst:
+    for j in _mst[k]:
+      cost += graph[k][j]
+  return cost
