@@ -84,6 +84,28 @@ def mst(graph, start):
           heapq.heappush(edges, (cost, to, to_next))
   return mst
 
+def Kruskal(graph):
+  result =[]
+  e = 0
+  i = 0
+  graph = sorted(graph, key=lambda item: item[2])
+  parent = []
+  rank = []
+
+  for no in range(graph):
+    parent.append(no)
+    rank.append(0)
+
+  while e < len(graph) -1:
+    u,v,w = graph[i] 
+    i = i + 1
+    x = graph.find(parent, u) 
+    y = graph.find(parent ,v)
+
+    if x != y: 
+      e = e + 1     
+      result.append([u,v,w]) 
+      graph.union(parent, rank, x, y) 
 def get_cost_of_mst(graph, start):
   _mst = mst(graph, start);
   cost = 0
