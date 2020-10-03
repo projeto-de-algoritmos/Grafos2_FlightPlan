@@ -74,7 +74,7 @@ def plot_graph_shortest_path(path, cost):
   plt.show();
 
 def menuPortuguese():
-  print('1 - Lista de todos aeroportos')
+  print('1 - Listar todos os aeroportos')
   print('2 - Algoritmo de Dijkstra para encontrar o menor caminho entre dois aeroportos')
   print('3 - Gerar a árvore geradora mínima usando o algoritmo de prim')
   print('4 - Algoritmo de Floyd Warshall para encontrar a distância mínima entre dois aeroportos')
@@ -99,7 +99,7 @@ def main():
   os.system('cls' if os.name == 'nt' else 'clear')
   print('1 - Menu em português')
   print('2 - Menu in english')
-  language = input('1 ou 2: ')
+  language = input('1 or 2 (1 ou 2): ')
 
   loop_condition = True
   os.system('cls' if os.name == 'nt' else 'clear')
@@ -152,7 +152,7 @@ def main():
         pp = pprint.PrettyPrinter(indent=8)
         pp.pprint(airports)
         if language == '1':
-          input1 = input('Digite o aeroporto para gerar o MST (Minimum Spanning Tree) deste aeroporto: ')
+          input1 = input('Digite o aeroporto para gerar a MST (Minimum Spanning Tree) deste aeroporto: ')
         else:
           input1 = input('Enter the airport to generate the MST (Minimum Spanning Tree) from this airport: ')
         mst = graph_algorithms.mst(graph, input1)
@@ -203,7 +203,7 @@ def main():
     elif option == '5':
       os.system('cls' if os.name == 'nt' else 'clear')
       if language == '1':
-        print('O tempo de execução do algoritmo de floyd warshall para todos o grafo é: ' + str(graph_algorithms.get_execution_time_floyd_warshall(graph)) + ' segundos\n')
+        print('O tempo de execução do algoritmo de floyd warshall para todo o grafo é: ' + str(graph_algorithms.get_execution_time_floyd_warshall(graph)) + ' segundos\n')
       else:
         print('The execution time of floyd warshall\'s algorithm for all graph is: ' + str(graph_algorithms.get_execution_time_floyd_warshall(graph)) + ' seconds\n')
     elif option == '0':

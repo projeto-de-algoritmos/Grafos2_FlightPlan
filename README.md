@@ -39,9 +39,17 @@ python3 graph.py
 ```
 
 ## Uso 
-Para usar, basta digitar as opções do menu:
 
+Antes de iniciar, escolha a linguagem: <br>
+![Language](/assets/images/initial-menu.png)
+
+### Menu em inglês
 ![Menu](/assets/images/menu.png) <br>
+
+### Menu em português
+![PMenu](/assets/images/portuguese-menu.png)
+
+Para usar, basta digitar as opções do menu:
 
 * 1 - Lista todos os aeroportos disponíveis;
 * 2 - Usa o Algoritmo de *Djikstra* para encontrar o menor caminho entre dois aeroportos;
